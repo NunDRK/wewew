@@ -168,3 +168,62 @@
 [04:47:08] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134
 [04:47:18] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134 -102 149 -116 minecraft:brown_concrete
 [04:47:18] [Server thread/INFO]: [Nun_DRK: Successfully filled 761 block(s)]
+[04:55:56] [Server thread/INFO]: Nun_DRK has made the advancement [Stone Age]
+[04:56:12] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 air
+[04:56:12] [Server thread/INFO]: [Nun_DRK: Successfully filled 14580 block(s)]
+[04:58:36] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54
+[04:58:45] [Server thread/INFO]: enzoeee has made the advancement [Stone Age]
+[04:58:48] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode spectator
+[04:58:48] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Spectator Mode]
+[04:58:54] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode creative
+[04:58:54] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Creative Mode]
+[04:58:56] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 170 -138 air
+[04:59:05] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 160 -138 air
+[04:59:15] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 150 -138 air
+[04:59:15] [Server thread/INFO]: [Nun_DRK: Successfully filled 1612 block(s)]
+[04:59:31] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 155 -138 air
+[04:59:36] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 154 -138 air
+[04:59:36] [Server thread/INFO]: [Nun_DRK: Successfully filled 577 block(s)]
+[05:01:17] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
+[05:01:17] [Server thread/INFO]: [Nun_DRK: Successfully filled 14580 block(s)]
+[05:01:24] [Server thread/INFO]: t1m0 issued server command: /gamemode survival
+[05:01:24] [Server thread/INFO]: [t1m0: Set own game mode to Survival Mode]
+[05:01:24] [Server thread/INFO]: enzoeee issued server command: /gamemode survival
+[05:01:24] [Server thread/INFO]: [enzoeee: Set own game mode to Survival Mode]
+[05:01:25] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:01:25] [Server thread/INFO]: [Nun_DRK: Successfully filled 1148 block(s)]
+[05:01:37] [Server thread/INFO]: enzoeee issued server command: /gamemode creative
+[05:01:37] [Server thread/INFO]: [enzoeee: Set own game mode to Creative Mode]
+[05:01:39] [Server thread/INFO]: t1m0 issued server command: /gamemode creative
+[05:01:39] [Server thread/INFO]: [t1m0: Set own game mode to Creative Mode]
+[05:01:52] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 tnt
+[05:01:52] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
+[05:01:57] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:01:57] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
+[05:02:05] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 tnt
+[05:02:05] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
+[05:02:13] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:02:13] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
+[05:02:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
+[05:02:34] [Server thread/INFO]: enzoeee issued server command: /gamemode survival t1m0
+[05:02:34] [Server thread/INFO]: [enzoeee: Set t1m0's game mode to Survival Mode]
+[05:02:45] [Server thread/INFO]: t1m0 was doomed to fall by enzoeee
+[05:02:52] [Server thread/INFO]: Nun_DRK lost connection: Timed out
+[05:02:52] [Server thread/INFO]: Nun_DRK left the game
+[05:02:57] [Server thread/INFO]: t1m0 issued server command: /tp enzoeee
+[05:02:57] [Server thread/INFO]: [t1m0: Teleported t1m0 to enzoeee]
+[05:03:00] [Server thread/INFO]: enzoeee issued server command: /gamemode creative
+[05:03:02] [Server thread/INFO]: t1m0 issued server command: /gamemode creative
+[05:03:02] [Server thread/INFO]: [t1m0: Set own game mode to Creative Mode]
+[05:03:15] [Server thread/INFO]: t1m0 issued server command: /effect
+[05:03:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks destroy
+[05:03:29] [Server thread/INFO]: [t1m0: Successfully filled 14580 block(s)]
+[05:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[05:04:02] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
+[05:04:02] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
+[05:04:10] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:04:10] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
+[05:04:21] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
+[05:04:21] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
+[05:04:35] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
+[05:04:35] [Server thread/INFO]: [Denver_Lucky: Successfully filled 5374 block(s)]

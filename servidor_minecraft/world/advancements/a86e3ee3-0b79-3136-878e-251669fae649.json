@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-05 04:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-05 04:33:53 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2024-12-05 04:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-05 04:54:29 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-05 05:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-05 04:38:10 +0000"
@@ -218,6 +236,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-05 04:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 05:02:45 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-05 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-05 04:54:29 +0000"
     },
     "done": true
   },
