@@ -130,3 +130,36 @@
 [04:31:42] [Server thread/INFO]: [Nun_DRK: Killed 66 entities]
 [04:31:50] [Server thread/INFO]: Nun_DRK issued server command: /kill @e[type=item]
 [04:31:50] [Server thread/INFO]: [Nun_DRK: Killed 64 entities]
+[04:34:11] [Server thread/INFO]: Nun_DRK issued server command: /tp t1m0 Nun_DRK
+[04:34:11] [Server thread/INFO]: [Nun_DRK: Teleported t1m0 to Nun_DRK]
+[04:34:35] [Server thread/INFO]: Nun_DRK issued server command: /tp enzoeee Nun_DRK
+[04:34:35] [Server thread/INFO]: [Nun_DRK: Teleported enzoeee to Nun_DRK]
+[04:34:44] [Server thread/INFO]: Nun_DRK issued server command: /kill en
+[04:34:46] [Server thread/INFO]: Nun_DRK issued server command: /kill enzoeee
+[04:34:46] [Server thread/INFO]: enzoeee was killed
+[04:34:46] [Server thread/INFO]: [Nun_DRK: Killed enzoeee]
+[04:34:55] [Server thread/INFO]: t1m0 issued server command: /kill Denver_Lucky
+[04:34:55] [Server thread/INFO]: Denver_Lucky was killed
+[04:34:55] [Server thread/INFO]: [t1m0: Killed Denver_Lucky]
+[04:35:09] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36
+[04:35:32] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 256 air -156
+[04:35:37] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 256 -156 air
+[04:35:45] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 170 -156 air
+[04:36:05] [Server thread/INFO]: Nun_DRK issued server command: /clar @a
+[04:36:10] [Server thread/INFO]: Nun_DRK issued server command: /clear @a
+[04:36:10] [Server thread/INFO]: [Nun_DRK: Removed 54 item(s) from 4 players]
+[04:38:21] [Server thread/INFO]: Nun_DRK issued server command: /tp t1m0
+[04:38:21] [Server thread/INFO]: [Nun_DRK: Teleported Nun_DRK to t1m0]
+[04:38:43] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
+[04:38:43] [Server thread/INFO]: [Nun_DRK: Successfully filled 42 block(s)]
+[04:39:32] [Server thread/INFO]: t1m0 issued server command: /kill Denver_Lucky
+[04:39:32] [Server thread/INFO]: Denver_Lucky was killed
+[04:39:32] [Server thread/INFO]: [t1m0: Killed Denver_Lucky]
+[04:40:02] [Server thread/INFO]: Denver_Lucky issued server command: /tp Nun_DRK
+[04:40:02] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to Nun_DRK]
+[04:41:10] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
+[04:41:10] [Server thread/INFO]: [Nun_DRK: Successfully filled 18 block(s)]
+[04:41:29] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[04:41:29] [Server thread/INFO]: [Nun_DRK: Successfully filled 842 block(s)]
+[04:41:39] [Server thread/INFO]: Nun_DRK issued server command: /clear @a
+[04:41:39] [Server thread/INFO]: [Nun_DRK: Removed 201 item(s) from 4 players]
