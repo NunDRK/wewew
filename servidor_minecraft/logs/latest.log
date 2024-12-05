@@ -227,3 +227,45 @@
 [05:04:21] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
 [05:04:35] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
 [05:04:35] [Server thread/INFO]: [Denver_Lucky: Successfully filled 5374 block(s)]
+[05:04:43] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:04:43] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
+[05:05:09] [Async Chat Thread - #6/INFO]: [Not Secure] <enzoeee> puros pollos
+[05:05:12] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block destroy
+[05:05:12] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
+[05:05:45] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:05:45] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9727 block(s)]
+[05:05:53] [Async Chat Thread - #7/INFO]: [Not Secure] <enzoeee> HAHHAHA
+[05:06:19] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:06:20] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9236 block(s)]
+[05:06:20] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air replace
+[05:06:20] [Server thread/INFO]: [t1m0: Successfully filled 9887 block(s)]
+[05:06:38] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air outline
+[05:06:54] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air keed
+[05:07:05] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air destroy
+[05:07:11] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air destroy
+[05:07:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks destroy
+[05:07:27] [Server thread/INFO]: [t1m0: Successfully filled 14580 block(s)]
+[05:07:37] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 204 -156 minecraft:tnt
+[05:07:49] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 200 -156 minecraft:tnt
+[05:08:11] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 180 -156 minecraft:tnt
+[05:08:19] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 150 -156 minecraft:tnt
+[05:08:27] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 ni bien lo ponga prende
+[05:08:38] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
+[05:09:38] [Server thread/INFO]: Denver_Lucky issued server command: /fill -56 149 -114 -171 180 -156 minecraft:tnt
+[05:10:27] [Server thread/INFO]: Denver_Lucky issued server command: /fill -72 148 -97 -171 180 -156 minecraft:tnt
+[05:10:43] [Server thread/INFO]: Denver_Lucky issued server command: /fill -72 148 -97 -171 150 -156 minecraft:tnt
+[05:10:43] [Server thread/INFO]: [Denver_Lucky: Successfully filled 18000 block(s)]
+[05:10:45] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode spectator
+[05:10:45] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Spectator Mode]
+[05:11:32] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode creative
+[05:11:32] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Creative Mode]
+[05:12:00] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
+[05:12:00] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9689 block(s)]
+[05:12:56] [Server thread/INFO]: Denver_Lucky issued server command: /tp enzoeee
+[05:12:56] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to enzoeee]
+[05:13:14] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sos vos?
+[05:13:20] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sos vos? el q pone tnt?
+[05:13:21] [Server thread/INFO]: t1m0 issued server command: /tp enzoeee t1m0
+[05:13:21] [Server thread/INFO]: [t1m0: Teleported enzoeee to t1m0]
+[05:13:26] [Server thread/INFO]: Denver_Lucky issued server command: /tp enzoeee
+[05:13:26] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to enzoeee]
