@@ -163,3 +163,8 @@
 [04:41:29] [Server thread/INFO]: [Nun_DRK: Successfully filled 842 block(s)]
 [04:41:39] [Server thread/INFO]: Nun_DRK issued server command: /clear @a
 [04:41:39] [Server thread/INFO]: [Nun_DRK: Removed 201 item(s) from 4 players]
+[04:44:53] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sin mesa
+[04:45:41] [Server thread/INFO]: Nun_DRK issued server command: /fill -171 149 -156
+[04:47:08] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134
+[04:47:18] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134 -102 149 -116 minecraft:brown_concrete
+[04:47:18] [Server thread/INFO]: [Nun_DRK: Successfully filled 761 block(s)]
