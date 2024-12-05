@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-05 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-05 04:23:03 +0000",
+      "minecraft:grove": "2024-12-05 04:23:45 +0000",
+      "minecraft:meadow": "2024-12-05 04:22:54 +0000",
+      "minecraft:birch_forest": "2024-12-05 04:23:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-05 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
