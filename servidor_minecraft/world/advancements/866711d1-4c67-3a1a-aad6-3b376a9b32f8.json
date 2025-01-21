@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-21 08:12:25 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-21 07:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
     },
     "done": true
   },
@@ -476,6 +488,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-21 08:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
     },
     "done": true
   },
@@ -563,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-21 08:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-21 07:37:30 +0000"
@@ -578,6 +602,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-21 08:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-21 08:57:47 +0000"
     },
     "done": true
   },
@@ -662,6 +692,12 @@
       "minecraft:zombie": "2025-01-21 08:06:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -773,13 +809,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-21 08:52:01 +0000",
       "minecraft:wooded_badlands": "2025-01-21 07:40:58 +0000",
       "minecraft:badlands": "2025-01-21 07:39:41 +0000",
+      "minecraft:savanna_plateau": "2025-01-21 08:50:52 +0000",
+      "minecraft:sparse_jungle": "2025-01-21 08:51:37 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-21 08:49:15 +0000",
       "minecraft:river": "2025-01-21 07:36:29 +0000",
       "minecraft:stony_shore": "2025-01-21 07:44:43 +0000",
       "minecraft:dripstone_caves": "2025-01-21 08:09:00 +0000",
+      "minecraft:forest": "2025-01-21 08:51:03 +0000",
       "minecraft:desert": "2025-01-21 07:39:06 +0000",
       "minecraft:jungle": "2025-01-21 08:37:01 +0000",
+      "minecraft:deep_dark": "2025-01-21 08:57:41 +0000",
       "minecraft:savanna": "2025-01-21 07:34:06 +0000",
       "minecraft:plains": "2025-01-21 07:33:51 +0000"
     },
@@ -891,6 +933,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-21 07:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
     },
     "done": true
   },
@@ -1056,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-21 08:07:35 +0000"
@@ -1095,6 +1149,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 07:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-21 08:57:55 +0000"
     },
     "done": true
   },
