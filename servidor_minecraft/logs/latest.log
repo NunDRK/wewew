@@ -1,318 +1,122 @@
-[04:13:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[04:13:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[04:14:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:14:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[04:14:02] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[04:14:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:14:14] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[04:14:14] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[04:14:16] [ServerMain/INFO]: No existing world data, creating new world
-[04:14:18] [ServerMain/INFO]: Loaded 1290 recipes
-[04:14:19] [ServerMain/INFO]: Loaded 1399 advancements
-[04:14:19] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 17218ms.
-[04:14:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:14:19] [Server thread/INFO]: Loading properties
-[04:14:19] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[04:14:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:14:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:14:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:14:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:14:22] [Server thread/INFO]: Default game type: SURVIVAL
-[04:14:22] [Server thread/INFO]: Generating keypair
-[04:14:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:14:22] [Server thread/INFO]: Using epoll channel type
-[04:14:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:14:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:14:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:14:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:14:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:14:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:14:22] [Server thread/INFO]: Preparing level "world"
-[04:14:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:14:53] [Server thread/INFO]: Time elapsed: 11373 ms
-[04:14:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:14:57] [Server thread/INFO]: Time elapsed: 3378 ms
-[04:14:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:14:58] [Server thread/INFO]: Time elapsed: 1186 ms
-[04:14:58] [Server thread/INFO]: [spark] Starting background profiler...
-[04:14:58] [Server thread/INFO]: Done preparing level "world" (36.014s)
-[04:14:58] [Server thread/INFO]: Running delayed init tasks
-[04:14:58] [Server thread/INFO]: Done (60.474s)! For help, type "help"
-[04:14:58] [Server thread/INFO]: *************************************************************************************
-[04:14:58] [Server thread/INFO]: This is the first time you're starting this server.
-[04:14:58] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[04:14:58] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[04:14:58] [Server thread/INFO]: *************************************************************************************
-[04:14:58] [Server thread/INFO]: Timings Reset
-[04:16:14] [User Authenticator #0/INFO]: UUID of player Nun_DRK is f0e21551-19f3-3a85-a022-46517dcc0d5f
-[04:16:16] [Server thread/INFO]: Nun_DRK joined the game
-[04:16:16] [Server thread/INFO]: Nun_DRK[/[0:0:0:0:0:0:0:1%0]:48096] logged in with entity id 21 at ([world]-1.5, 45.0, 2.5)
-[04:17:26] [Server thread/INFO]: Made Nun_DRK a server operator
-[04:18:17] [Server thread/INFO]: Nun_DRK issued server command: /ping
-[04:19:17] [Server thread/INFO]: Nun_DRK issued server command: /gamemode creative
-[04:19:17] [Server thread/INFO]: [Nun_DRK: Set own game mode to Creative Mode]
-[04:19:33] [Server thread/INFO]: Nun_DRK issued server command: /gamerule doDaylightCycle false
-[04:19:33] [Server thread/INFO]: [Nun_DRK: Gamerule doDaylightCycle is now set to: false]
-[04:20:08] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36
-[04:20:35] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156
-[04:20:42] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[04:20:42] [Server thread/INFO]: [Nun_DRK: Successfully filled 16334 block(s)]
-[04:21:37] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36
-[04:22:51] [User Authenticator #1/INFO]: UUID of player Denver_Lucky is 5e810dce-5bcc-35bc-87c2-5dd40d5d9a75
-[04:22:53] [Server thread/INFO]: Denver_Lucky joined the game
-[04:22:53] [Server thread/INFO]: Denver_Lucky[/[0:0:0:0:0:0:0:1%0]:37472] logged in with entity id 2015 at ([world]-8.5, 77.0, -5.5)
-[04:22:58] [Server thread/INFO]: Nun_DRK issued server command: /op Denver_Lucky
-[04:22:58] [Server thread/INFO]: [Nun_DRK: Made Denver_Lucky a server operator]
-[04:23:01] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode creative
-[04:23:01] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Creative Mode]
-[04:23:12] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -131
-[04:23:13] [Server thread/INFO]: Denver_Lucky issued server command: /tp nu
-[04:23:18] [Server thread/INFO]: Denver_Lucky issued server command: /tp Nun_DRK
-[04:23:18] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to Nun_DRK]
-[04:23:48] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96
-[04:23:55] [User Authenticator #2/INFO]: UUID of player t1m0 is a86e3ee3-0b79-3136-878e-251669fae649
-[04:23:56] [Server thread/INFO]: t1m0 joined the game
-[04:23:56] [Server thread/INFO]: t1m0[/[0:0:0:0:0:0:0:1%0]:36838] logged in with entity id 2373 at ([world]6.5, 53.0, 9.5)
-[04:24:09] [Server thread/INFO]: Denver_Lucky issued server command: /op t1m0
-[04:24:09] [Server thread/INFO]: [Denver_Lucky: Made t1m0 a server operator]
-[04:24:19] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[04:24:20] [Server thread/INFO]: [Nun_DRK: Successfully filled 14580 block(s)]
-[04:24:33] [Server thread/INFO]: Nun_DRK issued server command: /fill -127 149 -156
-[04:25:17] [User Authenticator #3/INFO]: UUID of player enzoeee is 3b910a0c-2353-3114-8fa0-ad05d25f2150
-[04:25:19] [Server thread/INFO]: enzoeee joined the game
-[04:25:19] [Server thread/INFO]: enzoeee[/[0:0:0:0:0:0:0:1%0]:50600] logged in with entity id 2672 at ([world]7.5, 61.0, 3.5)
-[04:25:25] [Server thread/INFO]: Denver_Lucky issued server command: /op enzoeee
-[04:25:25] [Server thread/INFO]: [Denver_Lucky: Made enzoeee a server operator]
-[04:25:42] [Server thread/INFO]: Nun_DRK issued server command: /gamemode creative t1m0
-[04:25:42] [Server thread/INFO]: [Nun_DRK: Set t1m0's game mode to Creative Mode]
-[04:25:45] [Server thread/INFO]: Nun_DRK issued server command: /gamemode creative enzoeee
-[04:25:45] [Server thread/INFO]: [Nun_DRK: Set enzoeee's game mode to Creative Mode]
-[04:25:50] [Server thread/INFO]: Nun_DRK issued server command: /tp enzoeee Denver_Lucky
-[04:25:50] [Server thread/INFO]: [Nun_DRK: Teleported enzoeee to Denver_Lucky]
-[04:26:07] [Server thread/INFO]: Nun_DRK issued server command: /weather clear 20000000
-[04:26:07] [Server thread/INFO]: [Nun_DRK: Set the weather to clear]
-[04:26:38] [Server thread/INFO]: Denver_Lucky issued server command: /gamerule doDaylightCycle false
-[04:26:38] [Server thread/INFO]: [Denver_Lucky: Gamerule doDaylightCycle is now set to: false]
-[04:26:53] [Server thread/INFO]: Denver_Lucky issued server command: /gamerule doWeatherCycle false
-[04:26:53] [Server thread/INFO]: [Denver_Lucky: Gamerule doWeatherCycle is now set to: false]
-[04:26:54] [Server thread/INFO]: Nun_DRK issued server command: /fill -127 149 -156
-[04:27:19] [Server thread/INFO]: Nun_DRK issued server command: /fill -127 149 -156 -127 256 -36 minecraft:stone_bricks
-[04:27:19] [Server thread/INFO]: [Nun_DRK: Successfully filled 12962 block(s)]
-[04:27:30] [Server thread/INFO]: Nun_DRK issued server command: /fill -127 149 -156 -127 256 -36 air
-[04:27:30] [Server thread/INFO]: [Nun_DRK: Successfully filled 13068 block(s)]
-[04:27:45] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[04:27:45] [Server thread/INFO]: [Nun_DRK: Successfully filled 108 block(s)]
-[04:28:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Nun_DRK> - 171
-[04:29:42] [Async Chat Thread - #2/INFO]: [Not Secure] <t1m0> a
-[04:30:27] [Server thread/INFO]: t1m0 issued server command: /
-[04:30:31] [Async Chat Thread - #3/INFO]: [Not Secure] <t1m0> S
-[04:30:39] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:39] [Server thread/INFO]: [Nun_DRK: Successfully filled 72 block(s)]
-[04:30:46] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:46] [Server thread/INFO]: [Nun_DRK: Successfully filled 34 block(s)]
-[04:30:46] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:46] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:47] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:49] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:49] [Server thread/INFO]: [Nun_DRK: Successfully filled 29 block(s)]
-[04:30:54] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:54] [Server thread/INFO]: [Nun_DRK: Successfully filled 89 block(s)]
-[04:30:56] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:56] [Server thread/INFO]: [Nun_DRK: Successfully filled 49 block(s)]
-[04:30:59] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:30:59] [Server thread/INFO]: [Nun_DRK: Successfully filled 66 block(s)]
-[04:31:24] [Server thread/INFO]: t1m0 issued server command: /seed
-[04:31:30] [Server thread/INFO]: Nun_DRK issued server command: /kill @e[type=item]
-[04:31:30] [Server thread/INFO]: [Nun_DRK: Killed 52 entities]
-[04:31:38] [Server thread/INFO]: Nun_DRK issued server command: /fill -91 102 -7 -91 256 -7 cactus
-[04:31:38] [Server thread/INFO]: [Nun_DRK: Successfully filled 155 block(s)]
-[04:31:42] [Server thread/INFO]: Nun_DRK issued server command: /kill @e[type=item]
-[04:31:42] [Server thread/INFO]: [Nun_DRK: Killed 66 entities]
-[04:31:50] [Server thread/INFO]: Nun_DRK issued server command: /kill @e[type=item]
-[04:31:50] [Server thread/INFO]: [Nun_DRK: Killed 64 entities]
-[04:34:11] [Server thread/INFO]: Nun_DRK issued server command: /tp t1m0 Nun_DRK
-[04:34:11] [Server thread/INFO]: [Nun_DRK: Teleported t1m0 to Nun_DRK]
-[04:34:35] [Server thread/INFO]: Nun_DRK issued server command: /tp enzoeee Nun_DRK
-[04:34:35] [Server thread/INFO]: [Nun_DRK: Teleported enzoeee to Nun_DRK]
-[04:34:44] [Server thread/INFO]: Nun_DRK issued server command: /kill en
-[04:34:46] [Server thread/INFO]: Nun_DRK issued server command: /kill enzoeee
-[04:34:46] [Server thread/INFO]: enzoeee was killed
-[04:34:46] [Server thread/INFO]: [Nun_DRK: Killed enzoeee]
-[04:34:55] [Server thread/INFO]: t1m0 issued server command: /kill Denver_Lucky
-[04:34:55] [Server thread/INFO]: Denver_Lucky was killed
-[04:34:55] [Server thread/INFO]: [t1m0: Killed Denver_Lucky]
-[04:35:09] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36
-[04:35:32] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 256 air -156
-[04:35:37] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 256 -156 air
-[04:35:45] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -36 -171 170 -156 air
-[04:36:05] [Server thread/INFO]: Nun_DRK issued server command: /clar @a
-[04:36:10] [Server thread/INFO]: Nun_DRK issued server command: /clear @a
-[04:36:10] [Server thread/INFO]: [Nun_DRK: Removed 54 item(s) from 4 players]
-[04:38:21] [Server thread/INFO]: Nun_DRK issued server command: /tp t1m0
-[04:38:21] [Server thread/INFO]: [Nun_DRK: Teleported Nun_DRK to t1m0]
-[04:38:43] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[04:38:43] [Server thread/INFO]: [Nun_DRK: Successfully filled 42 block(s)]
-[04:39:32] [Server thread/INFO]: t1m0 issued server command: /kill Denver_Lucky
-[04:39:32] [Server thread/INFO]: Denver_Lucky was killed
-[04:39:32] [Server thread/INFO]: [t1m0: Killed Denver_Lucky]
-[04:40:02] [Server thread/INFO]: Denver_Lucky issued server command: /tp Nun_DRK
-[04:40:02] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to Nun_DRK]
-[04:41:10] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[04:41:10] [Server thread/INFO]: [Nun_DRK: Successfully filled 18 block(s)]
-[04:41:29] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[04:41:29] [Server thread/INFO]: [Nun_DRK: Successfully filled 842 block(s)]
-[04:41:39] [Server thread/INFO]: Nun_DRK issued server command: /clear @a
-[04:41:39] [Server thread/INFO]: [Nun_DRK: Removed 201 item(s) from 4 players]
-[04:44:53] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sin mesa
-[04:45:41] [Server thread/INFO]: Nun_DRK issued server command: /fill -171 149 -156
-[04:47:08] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134
-[04:47:18] [Server thread/INFO]: Nun_DRK issued server command: /fill -57 149 -134 -102 149 -116 minecraft:brown_concrete
-[04:47:18] [Server thread/INFO]: [Nun_DRK: Successfully filled 761 block(s)]
-[04:55:56] [Server thread/INFO]: Nun_DRK has made the advancement [Stone Age]
-[04:56:12] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 air
-[04:56:12] [Server thread/INFO]: [Nun_DRK: Successfully filled 14580 block(s)]
-[04:58:36] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54
-[04:58:45] [Server thread/INFO]: enzoeee has made the advancement [Stone Age]
-[04:58:48] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode spectator
-[04:58:48] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Spectator Mode]
-[04:58:54] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode creative
-[04:58:54] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Creative Mode]
-[04:58:56] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 170 -138 air
-[04:59:05] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 160 -138 air
-[04:59:15] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 150 -138 air
-[04:59:15] [Server thread/INFO]: [Nun_DRK: Successfully filled 1612 block(s)]
-[04:59:31] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 155 -138 air
-[04:59:36] [Server thread/INFO]: Nun_DRK issued server command: /fill -49 149 -54 -111 154 -138 air
-[04:59:36] [Server thread/INFO]: [Nun_DRK: Successfully filled 577 block(s)]
-[05:01:17] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[05:01:17] [Server thread/INFO]: [Nun_DRK: Successfully filled 14580 block(s)]
-[05:01:24] [Server thread/INFO]: t1m0 issued server command: /gamemode survival
-[05:01:24] [Server thread/INFO]: [t1m0: Set own game mode to Survival Mode]
-[05:01:24] [Server thread/INFO]: enzoeee issued server command: /gamemode survival
-[05:01:24] [Server thread/INFO]: [enzoeee: Set own game mode to Survival Mode]
-[05:01:25] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:01:25] [Server thread/INFO]: [Nun_DRK: Successfully filled 1148 block(s)]
-[05:01:37] [Server thread/INFO]: enzoeee issued server command: /gamemode creative
-[05:01:37] [Server thread/INFO]: [enzoeee: Set own game mode to Creative Mode]
-[05:01:39] [Server thread/INFO]: t1m0 issued server command: /gamemode creative
-[05:01:39] [Server thread/INFO]: [t1m0: Set own game mode to Creative Mode]
-[05:01:52] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 tnt
-[05:01:52] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
-[05:01:57] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:01:57] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
-[05:02:05] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 tnt
-[05:02:05] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
-[05:02:13] [Server thread/INFO]: Nun_DRK issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:02:13] [Server thread/INFO]: [Nun_DRK: Successfully filled 16335 block(s)]
-[05:02:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[05:02:34] [Server thread/INFO]: enzoeee issued server command: /gamemode survival t1m0
-[05:02:34] [Server thread/INFO]: [enzoeee: Set t1m0's game mode to Survival Mode]
-[05:02:45] [Server thread/INFO]: t1m0 was doomed to fall by enzoeee
-[05:02:52] [Server thread/INFO]: Nun_DRK lost connection: Timed out
-[05:02:52] [Server thread/INFO]: Nun_DRK left the game
-[05:02:57] [Server thread/INFO]: t1m0 issued server command: /tp enzoeee
-[05:02:57] [Server thread/INFO]: [t1m0: Teleported t1m0 to enzoeee]
-[05:03:00] [Server thread/INFO]: enzoeee issued server command: /gamemode creative
-[05:03:02] [Server thread/INFO]: t1m0 issued server command: /gamemode creative
-[05:03:02] [Server thread/INFO]: [t1m0: Set own game mode to Creative Mode]
-[05:03:15] [Server thread/INFO]: t1m0 issued server command: /effect
-[05:03:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks destroy
-[05:03:29] [Server thread/INFO]: [t1m0: Successfully filled 14580 block(s)]
-[05:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
-[05:04:02] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
-[05:04:02] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
-[05:04:10] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:04:10] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
-[05:04:21] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
-[05:04:21] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
-[05:04:35] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
-[05:04:35] [Server thread/INFO]: [Denver_Lucky: Successfully filled 5374 block(s)]
-[05:04:43] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:04:43] [Server thread/INFO]: [Denver_Lucky: Successfully filled 16335 block(s)]
-[05:05:09] [Async Chat Thread - #6/INFO]: [Not Secure] <enzoeee> puros pollos
-[05:05:12] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block destroy
-[05:05:12] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:05:45] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:05:45] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9727 block(s)]
-[05:05:53] [Async Chat Thread - #7/INFO]: [Not Secure] <enzoeee> HAHHAHA
-[05:06:19] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:06:20] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9236 block(s)]
-[05:06:20] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air replace
-[05:06:20] [Server thread/INFO]: [t1m0: Successfully filled 9887 block(s)]
-[05:06:38] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air outline
-[05:06:54] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air keed
-[05:07:05] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air destroy
-[05:07:11] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 air destroy
-[05:07:26] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks destroy
-[05:07:27] [Server thread/INFO]: [t1m0: Successfully filled 14580 block(s)]
-[05:07:37] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 204 -156 minecraft:tnt
-[05:07:49] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 200 -156 minecraft:tnt
-[05:08:11] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 180 -156 minecraft:tnt
-[05:08:19] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 150 -156 minecraft:tnt
-[05:08:27] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 ni bien lo ponga prende
-[05:08:38] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:stone_bricks
-[05:09:38] [Server thread/INFO]: Denver_Lucky issued server command: /fill -56 149 -114 -171 180 -156 minecraft:tnt
-[05:10:27] [Server thread/INFO]: Denver_Lucky issued server command: /fill -72 148 -97 -171 180 -156 minecraft:tnt
-[05:10:43] [Server thread/INFO]: Denver_Lucky issued server command: /fill -72 148 -97 -171 150 -156 minecraft:tnt
-[05:10:43] [Server thread/INFO]: [Denver_Lucky: Successfully filled 18000 block(s)]
-[05:10:45] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode spectator
-[05:10:45] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Spectator Mode]
-[05:11:32] [Server thread/INFO]: Denver_Lucky issued server command: /gamemode creative
-[05:11:32] [Server thread/INFO]: [Denver_Lucky: Set own game mode to Creative Mode]
-[05:12:00] [Server thread/INFO]: Denver_Lucky issued server command: /fill -37 148 -36 -171 148 -156 minecraft:grass_block
-[05:12:00] [Server thread/INFO]: [Denver_Lucky: Successfully filled 9689 block(s)]
-[05:12:56] [Server thread/INFO]: Denver_Lucky issued server command: /tp enzoeee
-[05:12:56] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to enzoeee]
-[05:13:14] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sos vos?
-[05:13:20] [Server thread/INFO]: enzoeee issued server command: /msg t1m0 sos vos? el q pone tnt?
-[05:13:21] [Server thread/INFO]: t1m0 issued server command: /tp enzoeee t1m0
-[05:13:21] [Server thread/INFO]: [t1m0: Teleported enzoeee to t1m0]
-[05:13:26] [Server thread/INFO]: Denver_Lucky issued server command: /tp enzoeee
-[05:13:26] [Server thread/INFO]: [Denver_Lucky: Teleported Denver_Lucky to enzoeee]
-[05:15:06] [Server thread/INFO]: t1m0 issued server command: /fill -37 149 -96 -171 256 -96 minecraft:acacia_button
-[05:15:06] [Server thread/INFO]: [t1m0: Successfully filled 14580 block(s)]
-[05:15:19] [Server thread/INFO]: enzoeee issued server command: /tp enzoeee Boeing747
-[05:15:26] [Server thread/INFO]: t1m0 issued server command: /tp enzoeee t1m0
-[05:15:26] [Server thread/INFO]: [t1m0: Teleported enzoeee to t1m0]
-[05:16:15] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 minecraft:tnt
-[05:16:34] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 -16 106 -17 minecraft:tnt
-[05:16:34] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:tnt
-[05:16:34] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:16:52] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 -16 90 -17 minecraft:tnt
-[05:17:21] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 94 -48 minecraft:tnt
-[05:17:30] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 93 -48 minecraft:tnt
-[05:17:37] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 90 -48 minecraft:tnt
-[05:17:46] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 85 -48 minecraft:tnt
-[05:17:46] [Server thread/INFO]: [Denver_Lucky: Successfully filled 29403 block(s)]
-[05:17:47] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:diamond_block
-[05:17:47] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:17:53] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 85 -48 minecraft:tnt
-[05:18:01] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:diamond_block
-[05:18:01] [Server thread/INFO]: [t1m0: Successfully filled 4131 block(s)]
-[05:18:02] [Server thread/INFO]: Denver_Lucky issued server command: /fill 47 59 -80 15 85 -48 minecraft:tnt
-[05:18:02] [Server thread/INFO]: [Denver_Lucky: Successfully filled 2 block(s)]
-[05:18:12] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:damaged_anvil
-[05:18:12] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:18:32] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:damaged_anvil
-[05:18:32] [Server thread/INFO]: [t1m0: Successfully filled 16328 block(s)]
-[05:18:44] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:d
-[05:18:52] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:dandelion
-[05:18:53] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:18:53] [Server thread/WARN]: enzoeee moved too quickly! -18.906639399812647,7.301162887923994,2.8780929338654886
-[05:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[05:19:12] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:wall_torch
-[05:19:13] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9488ms or 189 ticks behind
-[05:19:34] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -156 minecraft:quartz_block
-[05:19:34] [Server thread/INFO]: [t1m0: Successfully filled 16335 block(s)]
-[05:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
-[05:20:05] [Server thread/INFO]: t1m0 issued server command: /fill -37 148 -36 -171 148 -312 minecraft:tnt
-[05:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[05:20:28] [Server thread/INFO]: Denver_Lucky lost connection: Disconnected
-[05:20:28] [Server thread/INFO]: Denver_Lucky left the game
-[05:20:38] [Server thread/INFO]: t1m0 lost connection: Timed out
-[05:20:38] [Server thread/INFO]: t1m0 left the game
-[05:20:39] [Server thread/INFO]: enzoeee lost connection: Timed out
-[05:20:39] [Server thread/INFO]: enzoeee left the game
-[05:21:55] [User Authenticator #4/INFO]: UUID of player t1m0 is a86e3ee3-0b79-3136-878e-251669fae649
-[05:22:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@73ef9cf5[id=a86e3ee3-0b79-3136-878e-251669fae649,name=t1m0,properties={}] lost connection: Timed out
+[07:32:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:32:44] [ServerMain/INFO]: Loaded 7 recipes
+[07:32:44] [ServerMain/INFO]: Loaded 1271 advancements
+[07:32:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[07:32:44] [Server thread/INFO]: Loading properties
+[07:32:44] [Server thread/INFO]: Default game type: SURVIVAL
+[07:32:44] [Server thread/INFO]: Generating keypair
+[07:32:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:32:45] [Server thread/INFO]: Using epoll channel type
+[07:32:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:32:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:32:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:32:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:32:45] [Server thread/INFO]: Preparing level "world"
+[07:32:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:32:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[07:32:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:32:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[07:32:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[07:32:54] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[07:32:54] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[07:32:55] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[07:32:55] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[07:32:56] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[07:32:56] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[07:32:57] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[07:32:57] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[07:32:58] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[07:32:58] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[07:32:59] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[07:32:59] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[07:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[07:33:00] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[07:33:01] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[07:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 35%
+[07:33:02] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[07:33:02] [Worker-Main-3/INFO]: Preparing spawn area: 41%
+[07:33:03] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[07:33:03] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[07:33:04] [Worker-Main-3/INFO]: Preparing spawn area: 50%
+[07:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[07:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[07:33:05] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[07:33:06] [Worker-Main-3/INFO]: Preparing spawn area: 61%
+[07:33:06] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[07:33:07] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[07:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[07:33:08] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[07:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 78%
+[07:33:09] [Worker-Main-1/INFO]: Preparing spawn area: 82%
+[07:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[07:33:10] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[07:33:10] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[07:33:11] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[07:33:11] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[07:33:12] [Server thread/INFO]: Time elapsed: 21986 ms
+[07:33:12] [Server thread/INFO]: Done (27.192s)! For help, type "help"
+[07:33:24] [Server thread/INFO]: Denver[/127.202.176.99:38967] logged in with entity id 967 at (-42.5, 57.0, -39.5)
+[07:33:24] [Server thread/INFO]: Denver joined the game
+[07:33:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=58, z=-48}
+[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=57, z=-47}
+[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=58, z=-48}
+[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=57, z=-47}
+[07:33:50] [Server thread/INFO]: JoaKing_Live[/127.105.196.1:56337] logged in with entity id 1301 at (-50.5, 62.0, -31.5)
+[07:33:50] [Server thread/INFO]: JoaKing_Live joined the game
+[07:34:22] [Server thread/INFO]: NunDRK[/127.1.45.67:34791] logged in with entity id 1530 at (-42.5, 57.0, -39.5)
+[07:34:22] [Server thread/INFO]: NunDRK joined the game
+[07:34:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-53, y=58, z=-52}
+[07:34:40] [Server thread/INFO]: Made NunDRK a server operator
+[07:34:43] [Server thread/INFO]: [NunDRK: Set own game mode to Creative Mode]
+[07:34:46] [Server thread/INFO]: ragnarok6538[/127.177.232.137:58141] logged in with entity id 1577 at (-50.5, 63.0, -29.5)
+[07:34:46] [Server thread/INFO]: ragnarok6538 joined the game
+[07:34:49] [Server thread/INFO]: [NunDRK: Teleported Denver to NunDRK]
+[07:35:10] [Server thread/INFO]: [NunDRK: Set own game mode to Survival Mode]
+[07:35:34] [Server thread/INFO]: [Not Secure] <NunDRK> 8881747622372407624
+[07:35:57] [Server thread/INFO]: [NunDRK: Created new objective [vida]]
+[07:36:03] [Server thread/INFO]: [NunDRK: Set display slot list to show objective vida]
+[07:36:07] [Server thread/INFO]: [NunDRK: Set display slot belowName to show objective vida]
+[07:36:20] [Server thread/INFO]: Denver fell from a high place
+[07:37:30] [Server thread/INFO]: JoaKing_Live has made the advancement [Stone Age]
+[07:37:40] [Server thread/INFO]: JoaKing_Live has made the advancement [Getting an Upgrade]
+[07:37:46] [Server thread/INFO]: [Not Secure] <ragnarok6538> 928 ~ 128
+[07:38:19] [Server thread/INFO]: NunDRK was slain by JoaKing_Live
+[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4431402701884508
+[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.45742709307754126
+[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.46901832322464543
+[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4787404951056544
+[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4873773281364322
+[07:40:06] [Server thread/INFO]: [Not Secure] <NunDRK> 800 -2400
+[07:41:04] [Server thread/INFO]: Denver has made the advancement [Stone Age]
+[07:41:33] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
+[07:41:37] [Server thread/INFO]: Denver has made the advancement [Getting an Upgrade]
+[07:42:23] [Server thread/INFO]: [Not Secure] <NunDRK> ./tp JoaKing_Live
+[07:42:36] [Server thread/INFO]: [Not Secure] <JoaKing_Live> 669 -371
+[07:43:44] [Server thread/INFO]: Denver has made the advancement [Sweet Dreams]
+[07:44:14] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 50]
+[07:44:41] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
+[07:45:11] [Server thread/INFO]: Denver has made the advancement [Acquire Hardware]
+[07:46:10] [Server thread/INFO]: ragnarok6538 has made the advancement [Getting an Upgrade]
+[07:46:30] [Server thread/INFO]: NunDRK has made the advancement [Acquire Hardware]
+[07:46:44] [Server thread/INFO]: [NunDRK: The difficulty has been set to Hard]
+[07:46:51] [Server thread/INFO]: JoaKing_Live has made the advancement [Acquire Hardware]
+[07:47:33] [Server thread/INFO]: ragnarok6538 has made the advancement [Stone Age]
+[07:48:35] [Server thread/INFO]: NunDRK has made the advancement [Diamonds!]
+[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.27189109421118474
+[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.33018460516075265
+[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.38944667200667027
+[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.4514637345023971
+[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.5904351018492662
+[07:51:49] [Server thread/INFO]: ragnarok6538 lost connection: Disconnected
+[07:51:49] [Server thread/INFO]: ragnarok6538 left the game
+[07:52:56] [Server thread/INFO]: ragnarok6538[/127.177.232.137:54099] logged in with entity id 24255 at (651.400006578683, 73.0, -407.69999998807907)
+[07:52:56] [Server thread/INFO]: ragnarok6538 joined the game
+[07:54:05] [Server thread/INFO]: NunDRK has made the advancement [Ice Bucket Challenge]
+[07:55:31] [Server thread/INFO]: NunDRK has made the advancement [Isn't It Iron Pick]
+[07:57:41] [Server thread/INFO]: Villager byb['Nitwit'/23369, l='ServerLevel[world]', x=840.43, y=64.94, z=-2418.52] died, message: 'Nitwit was slain by NunDRK'
+[07:57:49] [Server thread/INFO]: Villager byb['Nitwit'/23636, l='ServerLevel[world]', x=832.28, y=66.00, z=-2418.31] died, message: 'Nitwit was slain by NunDRK'
+[07:59:41] [Server thread/INFO]: Denver has made the advancement [Isn't It Iron Pick]
