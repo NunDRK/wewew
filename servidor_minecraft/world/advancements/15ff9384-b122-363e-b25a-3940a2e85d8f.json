@@ -1577,7 +1577,8 @@
       "cooked_beef": "2025-01-21 09:19:37 +0000",
       "cooked_cod": "2025-01-21 07:49:26 +0000",
       "bread": "2025-01-21 07:54:58 +0000",
-      "rotten_flesh": "2025-01-21 09:17:57 +0000"
+      "rotten_flesh": "2025-01-21 09:17:57 +0000",
+      "melon_slice": "2025-01-21 09:40:44 +0000"
     },
     "done": false
   },
@@ -1734,6 +1735,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-21 08:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-21 09:38:48 +0000"
     },
     "done": true
   },
