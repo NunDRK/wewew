@@ -1,231 +1,63 @@
-[07:32:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:32:44] [ServerMain/INFO]: Loaded 7 recipes
-[07:32:44] [ServerMain/INFO]: Loaded 1271 advancements
-[07:32:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[07:32:44] [Server thread/INFO]: Loading properties
-[07:32:44] [Server thread/INFO]: Default game type: SURVIVAL
-[07:32:44] [Server thread/INFO]: Generating keypair
-[07:32:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:32:45] [Server thread/INFO]: Using epoll channel type
-[07:32:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:32:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:32:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:32:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:32:45] [Server thread/INFO]: Preparing level "world"
-[07:32:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:32:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:32:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:32:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:32:53] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[07:32:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:32:54] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[07:32:54] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[07:32:55] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[07:32:55] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[07:32:56] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[07:32:56] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[07:32:57] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[07:32:57] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[07:32:58] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[07:32:58] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[07:32:59] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[07:32:59] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[07:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[07:33:00] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[07:33:01] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[07:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 35%
-[07:33:02] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[07:33:02] [Worker-Main-3/INFO]: Preparing spawn area: 41%
-[07:33:03] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[07:33:03] [Worker-Main-3/INFO]: Preparing spawn area: 46%
-[07:33:04] [Worker-Main-3/INFO]: Preparing spawn area: 50%
-[07:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[07:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[07:33:05] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[07:33:06] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[07:33:06] [Worker-Main-3/INFO]: Preparing spawn area: 64%
-[07:33:07] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[07:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 69%
-[07:33:08] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[07:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[07:33:09] [Worker-Main-1/INFO]: Preparing spawn area: 82%
-[07:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[07:33:10] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[07:33:10] [Worker-Main-3/INFO]: Preparing spawn area: 89%
-[07:33:11] [Worker-Main-1/INFO]: Preparing spawn area: 93%
-[07:33:11] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[07:33:12] [Server thread/INFO]: Time elapsed: 21986 ms
-[07:33:12] [Server thread/INFO]: Done (27.192s)! For help, type "help"
-[07:33:24] [Server thread/INFO]: Denver[/127.202.176.99:38967] logged in with entity id 967 at (-42.5, 57.0, -39.5)
-[07:33:24] [Server thread/INFO]: Denver joined the game
-[07:33:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=58, z=-48}
-[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=57, z=-47}
-[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=58, z=-48}
-[07:33:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-52, y=57, z=-47}
-[07:33:50] [Server thread/INFO]: JoaKing_Live[/127.105.196.1:56337] logged in with entity id 1301 at (-50.5, 62.0, -31.5)
-[07:33:50] [Server thread/INFO]: JoaKing_Live joined the game
-[07:34:22] [Server thread/INFO]: NunDRK[/127.1.45.67:34791] logged in with entity id 1530 at (-42.5, 57.0, -39.5)
-[07:34:22] [Server thread/INFO]: NunDRK joined the game
-[07:34:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-53, y=58, z=-52}
-[07:34:40] [Server thread/INFO]: Made NunDRK a server operator
-[07:34:43] [Server thread/INFO]: [NunDRK: Set own game mode to Creative Mode]
-[07:34:46] [Server thread/INFO]: ragnarok6538[/127.177.232.137:58141] logged in with entity id 1577 at (-50.5, 63.0, -29.5)
-[07:34:46] [Server thread/INFO]: ragnarok6538 joined the game
-[07:34:49] [Server thread/INFO]: [NunDRK: Teleported Denver to NunDRK]
-[07:35:10] [Server thread/INFO]: [NunDRK: Set own game mode to Survival Mode]
-[07:35:34] [Server thread/INFO]: [Not Secure] <NunDRK> 8881747622372407624
-[07:35:57] [Server thread/INFO]: [NunDRK: Created new objective [vida]]
-[07:36:03] [Server thread/INFO]: [NunDRK: Set display slot list to show objective vida]
-[07:36:07] [Server thread/INFO]: [NunDRK: Set display slot belowName to show objective vida]
-[07:36:20] [Server thread/INFO]: Denver fell from a high place
-[07:37:30] [Server thread/INFO]: JoaKing_Live has made the advancement [Stone Age]
-[07:37:40] [Server thread/INFO]: JoaKing_Live has made the advancement [Getting an Upgrade]
-[07:37:46] [Server thread/INFO]: [Not Secure] <ragnarok6538> 928 ~ 128
-[07:38:19] [Server thread/INFO]: NunDRK was slain by JoaKing_Live
-[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4431402701884508
-[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.45742709307754126
-[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.46901832322464543
-[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4787404951056544
-[07:39:48] [Server thread/WARN]: Boat (vehicle of ragnarok6538) moved wrongly! 0.4873773281364322
-[07:40:06] [Server thread/INFO]: [Not Secure] <NunDRK> 800 -2400
-[07:41:04] [Server thread/INFO]: Denver has made the advancement [Stone Age]
-[07:41:33] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
-[07:41:37] [Server thread/INFO]: Denver has made the advancement [Getting an Upgrade]
-[07:42:23] [Server thread/INFO]: [Not Secure] <NunDRK> ./tp JoaKing_Live
-[07:42:36] [Server thread/INFO]: [Not Secure] <JoaKing_Live> 669 -371
-[07:43:44] [Server thread/INFO]: Denver has made the advancement [Sweet Dreams]
-[07:44:14] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 50]
-[07:44:41] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
-[07:45:11] [Server thread/INFO]: Denver has made the advancement [Acquire Hardware]
-[07:46:10] [Server thread/INFO]: ragnarok6538 has made the advancement [Getting an Upgrade]
-[07:46:30] [Server thread/INFO]: NunDRK has made the advancement [Acquire Hardware]
-[07:46:44] [Server thread/INFO]: [NunDRK: The difficulty has been set to Hard]
-[07:46:51] [Server thread/INFO]: JoaKing_Live has made the advancement [Acquire Hardware]
-[07:47:33] [Server thread/INFO]: ragnarok6538 has made the advancement [Stone Age]
-[07:48:35] [Server thread/INFO]: NunDRK has made the advancement [Diamonds!]
-[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.27189109421118474
-[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.33018460516075265
-[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.38944667200667027
-[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.4514637345023971
-[07:48:58] [Server thread/WARN]: Boat (vehicle of Denver) moved wrongly! 0.5904351018492662
-[07:51:49] [Server thread/INFO]: ragnarok6538 lost connection: Disconnected
-[07:51:49] [Server thread/INFO]: ragnarok6538 left the game
-[07:52:56] [Server thread/INFO]: ragnarok6538[/127.177.232.137:54099] logged in with entity id 24255 at (651.400006578683, 73.0, -407.69999998807907)
-[07:52:56] [Server thread/INFO]: ragnarok6538 joined the game
-[07:54:05] [Server thread/INFO]: NunDRK has made the advancement [Ice Bucket Challenge]
-[07:55:31] [Server thread/INFO]: NunDRK has made the advancement [Isn't It Iron Pick]
-[07:57:41] [Server thread/INFO]: Villager byb['Nitwit'/23369, l='ServerLevel[world]', x=840.43, y=64.94, z=-2418.52] died, message: 'Nitwit was slain by NunDRK'
-[07:57:49] [Server thread/INFO]: Villager byb['Nitwit'/23636, l='ServerLevel[world]', x=832.28, y=66.00, z=-2418.31] died, message: 'Nitwit was slain by NunDRK'
-[07:59:41] [Server thread/INFO]: Denver has made the advancement [Isn't It Iron Pick]
-[08:02:52] [Server thread/INFO]: JoaKing_Live has made the advancement [Monster Hunter]
-[08:05:14] [Server thread/INFO]: NunDRK has made the advancement [Sweet Dreams]
-[08:05:58] [Server thread/INFO]: NunDRK has made the advancement [Stone Age]
-[08:08:29] [Server thread/INFO]: NunDRK has made the advancement [A Seedy Place]
-[08:09:03] [Server thread/INFO]: ragnarok6538 has made the advancement [Monster Hunter]
-[08:09:05] [Server thread/INFO]: ragnarok6538 has made the advancement [Sweet Dreams]
-[08:11:21] [Server thread/INFO]: JoaKing_Live has made the advancement [Isn't It Iron Pick]
-[08:12:09] [Server thread/INFO]: ragnarok6538 has made the advancement [A Seedy Place]
-[08:13:19] [Server thread/INFO]: ragnarok6538 has made the advancement [Acquire Hardware]
-[08:14:43] [Server thread/INFO]: ragnarok6538 has made the advancement [What a Deal!]
-[08:15:41] [Server thread/INFO]: Denver has made the advancement [Suit Up]
-[08:16:52] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:16:52] [Server thread/INFO]: Denver left the game
-[08:18:51] [Server thread/INFO]: Denver[/127.202.176.99:42837] logged in with entity id 39769 at (788.9487698852652, 65.0, -2340.634868707945)
-[08:18:51] [Server thread/INFO]: Denver joined the game
-[08:20:07] [Server thread/INFO]: NunDRK has made the advancement [What a Deal!]
-[08:22:32] [Server thread/INFO]: JoaKing_Live has made the advancement [Not Today, Thank You]
-[08:24:05] [Server thread/INFO]: JoaKing_Live has made the advancement [Diamonds!]
-[08:26:59] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[08:31:22] [Server thread/INFO]: ragnarok6538 has made the advancement [Suit Up]
-[08:31:45] [Server thread/INFO]: JoaKing_Live has made the advancement [Suit Up]
-[08:32:44] [Server thread/INFO]: JoaKing_Live was slain by Iron Golem
-[08:33:12] [Server thread/INFO]: ragnarok6538 has made the advancement [Isn't It Iron Pick]
-[08:33:55] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[08:34:10] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:34:10] [Server thread/INFO]: Denver left the game
-[08:35:33] [Server thread/INFO]: Denver[/127.202.176.99:44189] logged in with entity id 49120 at (833.7326099270349, 64.0, -2437.2064266479)
-[08:35:33] [Server thread/INFO]: Denver joined the game
-[08:37:49] [Server thread/INFO]: Denver has made the advancement [What a Deal!]
-[08:38:12] [Server thread/INFO]: NunDRK has made the advancement [The Parrots and the Bats]
-[08:38:29] [Server thread/INFO]: [Not Secure] <Denver> 24 esmes darj
-[08:38:35] [Server thread/INFO]: [Not Secure] <Denver> dark*
-[08:38:41] [Server thread/INFO]: [Not Secure] <Denver> toma
-[08:38:51] [Server thread/INFO]: [Not Secure] <Denver> me estoy comiendo alto terrabusi
-[08:39:09] [Server thread/INFO]: [Not Secure] <Denver> chi
-[08:40:23] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:40:23] [Server thread/INFO]: Denver left the game
-[08:42:38] [Server thread/INFO]: Denver[/127.202.176.99:38863] logged in with entity id 52351 at (839.3338284269013, 63.0, -2394.7280797645517)
-[08:42:38] [Server thread/INFO]: Denver joined the game
-[08:42:45] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:42:45] [Server thread/INFO]: Denver left the game
-[08:42:51] [Server thread/INFO]: Denver[/127.202.176.99:55523] logged in with entity id 52515 at (839.3338284269013, 63.0, -2394.7280797645517)
-[08:42:51] [Server thread/INFO]: Denver joined the game
-[08:43:03] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:43:03] [Server thread/INFO]: Denver left the game
-[08:43:26] [Server thread/INFO]: NunDRK has made the advancement [Monster Hunter]
-[08:43:44] [Server thread/INFO]: Denver[/127.202.176.99:43171] logged in with entity id 52926 at (839.3338284269013, 63.0, -2394.7280797645517)
-[08:43:44] [Server thread/INFO]: Denver joined the game
-[08:44:14] [Server thread/INFO]: Denver lost connection: Disconnected
-[08:44:14] [Server thread/INFO]: Denver left the game
-[08:44:18] [Server thread/INFO]: Denver[/127.202.176.99:35651] logged in with entity id 53169 at (839.3338284269013, 63.0, -2394.7280797645517)
-[08:44:18] [Server thread/INFO]: Denver joined the game
-[08:45:26] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[08:52:28] [Server thread/INFO]: ragnarok6538 has made the advancement [Diamonds!]
-[08:57:47] [Server thread/INFO]: JoaKing_Live has made the advancement [Sneak 100]
-[09:00:27] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:01:02] [Server thread/INFO]: [Not Secure] <Denver> -850 2303
-[09:01:34] [Server thread/INFO]: Denver lost connection: Disconnected
-[09:01:34] [Server thread/INFO]: Denver left the game
-[09:01:35] [Server thread/WARN]: handleDisconnection() called twice
-[09:02:34] [Server thread/INFO]: [Not Secure] * NunDRK a conseguido el logro &6[se acabo]
-[09:09:21] [Server thread/INFO]: ragnarok6538 was shot by Skeleton
-[09:09:56] [Server thread/INFO]: Villager byb['Fletcher'/71010, l='ServerLevel[world]', x=651.67, y=71.53, z=-401.31] died, message: 'Fletcher was slain by Zombie'
-[09:10:00] [Server thread/INFO]: ragnarok6538 was slain by Zombie
-[09:10:05] [Server thread/INFO]: Villager byb['Librarian'/71020, l='ServerLevel[world]', x=651.24, y=71.00, z=-402.69] died, message: 'Librarian was slain by ragnarok6538'
-[09:10:08] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:10:15] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:10:22] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:10:29] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:10:38] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:10:45] [Server thread/INFO]: ragnarok6538 was slain by Iron Golem
-[09:13:48] [Server thread/INFO]: NunDRK was shot by Skeleton
-[09:14:15] [Server thread/INFO]: NunDRK fell from a high place
-[09:15:38] [Server thread/INFO]: NunDRK fell from a high place
-[09:17:25] [Server thread/INFO]: NunDRK was shot by Skeleton
-[09:17:27] [Server thread/INFO]: ragnarok6538 was slain by Zombie
-[09:18:01] [Server thread/INFO]: NunDRK was shot by Skeleton
-[09:19:41] [Server thread/INFO]: NunDRK has made the advancement [Not Today, Thank You]
-[09:20:27] [Server thread/INFO]: JoaKing_Live has made the advancement [A Seedy Place]
-[09:20:33] [Server thread/INFO]: NunDRK was shot by Skeleton
-[09:21:05] [Server thread/INFO]: NunDRK was slain by Zombie
-[09:23:35] [Server thread/INFO]: NunDRK was blown up by Creeper
-[09:24:03] [Server thread/INFO]: NunDRK tried to swim in lava
-[09:24:29] [Server thread/INFO]: [Not Secure] <JoaKing_Live> 669 -371
-[09:27:16] [Server thread/INFO]: JoaKing_Live was shot by Skeleton
-[09:30:06] [Server thread/INFO]: ragnarok6538 was slain by NunDRK
-[09:31:00] [Server thread/INFO]: Denver[/127.202.176.99:36853] logged in with entity id 85763 at (835.864061225545, 63.0, -2301.7282408794654)
-[09:31:00] [Server thread/INFO]: Denver joined the game
-[09:31:28] [Server thread/INFO]: NunDRK has made the advancement [Suit Up]
-[09:33:05] [Server thread/INFO]: [Not Secure] <JoaKing_Live> 699 -371
-[09:33:30] [Server thread/INFO]: Denver has made the advancement [Diamonds!]
-[09:36:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=832, y=64, z=-2399} gu{x=833, y=62, z=-2398}
-[09:36:39] [Server thread/INFO]: [NunDRK: Teleported Denver to NunDRK]
-[09:40:49] [Server thread/INFO]: JoaKing_Live has made the advancement [What a Deal!]
-[09:43:44] [Server thread/INFO]: Denver was slain by Enderman
-[09:49:46] [Server thread/INFO]: JoaKing_Live has made the advancement [Take Aim]
-[09:50:03] [Server thread/INFO]: NunDRK has made the advancement [Take Aim]
-[09:50:10] [Server thread/INFO]: ragnarok6538 was slain by Denver
-[09:50:46] [Server thread/INFO]: Denver was shot by JoaKing_Live
-[09:51:06] [Server thread/INFO]: ragnarok6538 was slain by JoaKing_Live
-[09:51:32] [Server thread/INFO]: ragnarok6538 was shot by JoaKing_Live
-[09:51:36] [Server thread/INFO]: JoaKing_Live was slain by Denver
-[09:51:47] [Server thread/INFO]: Denver was slain by JoaKing_Live
-[09:52:42] [Server thread/INFO]: ragnarok6538 was slain by Denver
-[09:53:15] [Server thread/INFO]: Denver was slain by ragnarok6538
-[09:53:59] [Server thread/INFO]: Denver was slain by ragnarok6538
-[09:54:14] [Server thread/INFO]: Denver was slain by JoaKing_Live
-[09:54:44] [Server thread/INFO]: JoaKing_Live was slain by ragnarok6538
-[09:54:56] [Server thread/INFO]: Denver was slain by ragnarok6538
+[10:08:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:08:07] [ServerMain/INFO]: Loaded 7 recipes
+[10:08:07] [ServerMain/INFO]: Loaded 1271 advancements
+[10:08:07] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:08:07] [Server thread/INFO]: Loading properties
+[10:08:07] [Server thread/INFO]: Default game type: SURVIVAL
+[10:08:07] [Server thread/INFO]: Generating keypair
+[10:08:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:08:07] [Server thread/INFO]: Using epoll channel type
+[10:08:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:08:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:08:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:08:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:08:07] [Server thread/INFO]: Preparing level "world"
+[10:08:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:08:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[10:08:16] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[10:08:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[10:08:17] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[10:08:17] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[10:08:18] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:08:18] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[10:08:19] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[10:08:19] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[10:08:20] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[10:08:21] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[10:08:21] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[10:08:21] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[10:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[10:08:22] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[10:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[10:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[10:08:24] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[10:08:25] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[10:08:25] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[10:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[10:08:26] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[10:08:26] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[10:08:27] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[10:08:27] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[10:08:28] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[10:08:28] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[10:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 60%
+[10:08:29] [Worker-Main-3/INFO]: Preparing spawn area: 63%
+[10:08:30] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[10:08:30] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+[10:08:31] [Worker-Main-3/INFO]: Preparing spawn area: 72%
+[10:08:31] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[10:08:32] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[10:08:32] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[10:08:33] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[10:08:33] [Worker-Main-1/INFO]: Preparing spawn area: 90%
+[10:08:34] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[10:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 91%
+[10:08:35] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[10:08:35] [Worker-Main-2/INFO]: Preparing spawn area: 98%
+[10:08:36] [Server thread/INFO]: Time elapsed: 22604 ms
+[10:08:36] [Server thread/INFO]: Done (28.160s)! For help, type "help"
