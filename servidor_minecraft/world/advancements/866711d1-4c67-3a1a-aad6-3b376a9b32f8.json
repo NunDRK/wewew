@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-21 09:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-21 09:18:10 +0000"
@@ -1055,6 +1061,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-21 09:20:55 +0000",
       "beef": "2025-01-21 07:36:54 +0000",
+      "apple": "2025-01-21 09:48:18 +0000",
       "bread": "2025-01-21 07:43:02 +0000",
       "melon_slice": "2025-01-21 09:16:20 +0000"
     },
