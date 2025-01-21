@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-21 09:19:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-21 07:40:53 +0000"
@@ -929,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-21 09:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-21 07:46:29 +0000"
@@ -1057,6 +1069,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-21 09:19:45 +0000",
       "minecraft:creeper": "2025-01-21 09:12:23 +0000",
       "minecraft:zombie": "2025-01-21 08:43:26 +0000"
     },
@@ -1197,6 +1210,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-21 07:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-21 09:19:45 +0000"
     },
     "done": true
   },
@@ -1409,8 +1428,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-21 08:47:57 +0000",
+      "cooked_beef": "2025-01-21 09:19:37 +0000",
       "cooked_cod": "2025-01-21 07:49:26 +0000",
-      "bread": "2025-01-21 07:54:58 +0000"
+      "bread": "2025-01-21 07:54:58 +0000",
+      "rotten_flesh": "2025-01-21 09:17:57 +0000"
     },
     "done": false
   },
@@ -1699,6 +1720,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-21 07:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-01-21 09:18:42 +0000"
     },
     "done": true
   },
