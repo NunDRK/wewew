@@ -1,63 +1,219 @@
-[10:08:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:08:07] [ServerMain/INFO]: Loaded 7 recipes
-[10:08:07] [ServerMain/INFO]: Loaded 1271 advancements
-[10:08:07] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[10:08:07] [Server thread/INFO]: Loading properties
-[10:08:07] [Server thread/INFO]: Default game type: SURVIVAL
-[10:08:07] [Server thread/INFO]: Generating keypair
-[10:08:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:08:07] [Server thread/INFO]: Using epoll channel type
-[10:08:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:08:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:08:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:08:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:08:07] [Server thread/INFO]: Preparing level "world"
-[10:08:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:08:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:08:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:08:15] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[10:08:16] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[10:08:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[10:08:17] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[10:08:17] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[10:08:18] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[10:08:18] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[10:08:19] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[10:08:19] [Worker-Main-3/INFO]: Preparing spawn area: 11%
-[10:08:20] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[10:08:21] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[10:08:21] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[10:08:21] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[10:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 20%
-[10:08:22] [Worker-Main-2/INFO]: Preparing spawn area: 23%
-[10:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[10:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[10:08:24] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[10:08:25] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[10:08:25] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[10:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[10:08:26] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[10:08:26] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[10:08:27] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[10:08:27] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[10:08:28] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[10:08:28] [Worker-Main-3/INFO]: Preparing spawn area: 57%
-[10:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[10:08:29] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[10:08:30] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[10:08:30] [Worker-Main-1/INFO]: Preparing spawn area: 70%
-[10:08:31] [Worker-Main-3/INFO]: Preparing spawn area: 72%
-[10:08:31] [Worker-Main-3/INFO]: Preparing spawn area: 76%
-[10:08:32] [Worker-Main-2/INFO]: Preparing spawn area: 80%
-[10:08:32] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[10:08:33] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[10:08:33] [Worker-Main-1/INFO]: Preparing spawn area: 90%
-[10:08:34] [Worker-Main-2/INFO]: Preparing spawn area: 90%
-[10:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 91%
-[10:08:35] [Worker-Main-1/INFO]: Preparing spawn area: 94%
-[10:08:35] [Worker-Main-2/INFO]: Preparing spawn area: 98%
-[10:08:36] [Server thread/INFO]: Time elapsed: 22604 ms
-[10:08:36] [Server thread/INFO]: Done (28.160s)! For help, type "help"
+[23:15:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:15:03] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[23:15:04] [ServerMain/INFO]: Loaded 7 recipes
+[23:15:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:15:05] [Server thread/INFO]: Loading properties
+[23:15:05] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:15:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:15:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:15:05] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[23:15:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:15:06] [Server thread/INFO]: Default game type: SURVIVAL
+[23:15:06] [Server thread/INFO]: Generating keypair
+[23:15:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:15:06] [Server thread/INFO]: Using epoll channel type
+[23:15:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:15:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:15:06] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[23:15:06] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+155-803771e
+[23:15:06] [Server thread/INFO]: [ChatColor2] Loading server plugin ChatColor2 v1.15.1
+[23:15:06] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.2
+[23:15:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:15:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[23:15:07] [Server thread/INFO]:         __    
+[23:15:07] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[23:15:07] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[23:15:07] [Server thread/INFO]: 
+[23:15:07] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[23:15:07] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[23:15:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[23:15:08] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[23:15:08] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1326ms)
+[23:15:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:15:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:15:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:15:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:15:08] [Server thread/INFO]: Preparing level "world"
+[23:15:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:15:19] [Server thread/INFO]: Time elapsed: 98 ms
+[23:15:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:15:20] [Server thread/INFO]: Time elapsed: 88 ms
+[23:15:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:15:20] [Server thread/INFO]: Time elapsed: 59 ms
+[23:15:20] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+155-803771e
+[23:15:20] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:15:20] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:15:20] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:15:20] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[23:15:20] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[23:15:20] [Server thread/INFO]: [Essentials] Converted 0/1
+[23:15:20] [Server thread/INFO]: [Essentials] Ban format update complete.
+[23:15:20] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[23:15:20] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[23:15:20] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[23:15:20] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[23:15:20] [Server thread/INFO]: [Essentials] Done converting mail list.
+[23:15:20] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:15:20] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[23:15:20] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[23:15:20] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[23:15:20] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[23:15:20] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[23:15:20] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[23:15:20] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[23:15:20] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[23:15:20] [Server thread/INFO]: [Essentials] 
+[23:15:20] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[23:15:20] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[23:15:20] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[23:15:20] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:15:20] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[23:15:20] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:15:20] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[23:15:20] [Server thread/INFO]: [Essentials] 
+[23:15:20] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[23:15:20] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[23:15:20] [Server thread/INFO]: [Essentials] 
+[23:15:20] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[23:15:20] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[23:15:20] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[23:15:20] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[23:15:20] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[23:15:20] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:15:20] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[23:15:20] [Server thread/INFO]: [Essentials] Using locale en
+[23:15:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:15:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:15:20] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[23:15:20] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[23:15:20] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[23:15:20] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.15.1
+[23:15:21] [Server thread/INFO]: [ChatColor] Created player data folder.
+[23:15:21] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.15.1 has been enabled.
+[23:15:21] [Server thread/INFO]: [ChatColor] Current update: GUI rework & additional features! (+Bug fixes)
+[23:15:21] [Server thread/INFO]: [ChatColor] PlaceholderAPI not found, placeholders will not be available.
+[23:15:21] [Server thread/INFO]: [ChatColor] Metrics is enabled for this plugin. Stats sent to https://bstats.org/plugin/bukkit/ChatColor2
+[23:15:21] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.2
+[23:15:21] [Server thread/INFO]: [AngelChest] You are using an illegal copy of AngelChest :-(
+[23:15:21] [Server thread/INFO]: [AngelChest] Zbkew'bdhgzhere-ouying a legal version on SpigotMC instead:
+[23:15:21] [Server thread/INFO]: [AngelChest] iucg~7//www.spigotmc.org/members/mfnalex.175238/
+[23:15:21] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[23:15:21] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[23:15:21] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[23:15:21] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[23:15:21] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[23:15:21] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[23:15:21] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.2 (Premium: false)
+[23:15:21] [Server thread/INFO]: Running delayed init tasks
+[23:15:21] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:15:21] [Server thread/INFO]: Done (16.576s)! For help, type "help"
+[23:15:21] [Server thread/INFO]: Timings Reset
+[23:15:24] [Server thread/INFO]: [AngelChest] ========================================================
+[23:15:24] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[23:15:24] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[23:15:24] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[23:15:24] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[23:15:24] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[23:15:24] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[23:15:24] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[23:15:24] [Server thread/INFO]: [AngelChest] 
+[23:15:24] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[23:15:24] [Server thread/INFO]: [AngelChest] ========================================================
+[23:18:05] [User Authenticator #0/INFO]: UUID of player NunDRK is 15ff9384-b122-363e-b25a-3940a2e85d8f
+[23:18:05] [Server thread/INFO]: NunDRK joined the game
+[23:18:05] [Server thread/INFO]: NunDRK[/127.1.45.67:49361] logged in with entity id 585 at ([world]8.5, 77.0, -6.5)
+[23:18:23] [Server thread/INFO]: Made NunDRK a server operator
+[23:18:35] [Server thread/INFO]: NunDRK issued server command: /gamerule playersSleepingPercentage 1
+[23:18:35] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
+[23:18:43] [Server thread/INFO]: NunDRK issued server command: /gamerule doDaylightCycle false
+[23:18:43] [Server thread/INFO]: [NunDRK: Gamerule doDaylightCycle is now set to: false]
+[23:19:04] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.home
+[23:19:04] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:19:04] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.home true
+[23:19:09] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome
+[23:19:09] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:19:09] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome true
+[23:20:07] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome-multiiple.default
+[23:20:07] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:20:07] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome-multiiple.default true
+[23:22:00] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome.multiiple.default
+[23:22:00] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:00] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome.multiiple.default true
+[23:22:09] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpa
+[23:22:09] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:09] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[23:22:12] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpaall
+[23:22:12] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:12] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaall true
+[23:22:15] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpacancel
+[23:22:15] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:15] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpacancel true
+[23:22:19] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpaccept
+[23:22:19] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:19] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[23:22:23] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpahere
+[23:22:23] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:23] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpahere true
+[23:22:27] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.tpdeny
+[23:22:27] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:27] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpdeny true
+[23:22:34] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.ec
+[23:22:34] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:34] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.ec true
+[23:22:40] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.workbench
+[23:22:40] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:40] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.workbench true
+[23:22:45] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.anvil
+[23:22:45] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:45] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.anvil true
+[23:22:48] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.stonecutter
+[23:22:48] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:22:48] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.stonecutter true
+[23:23:26] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[23:23:39] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.grindstone
+[23:23:39] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:23:39] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.grindstone true
+[23:23:46] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.enderchest
+[23:23:46] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:23:46] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.enderchest true
+[23:24:00] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.delhome
+[23:24:00] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:00] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.delhome true
+[23:24:10] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.deljail
+[23:24:10] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:10] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.deljail true
+[23:24:15] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.setwarp
+[23:24:15] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:15] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.setwarp true
+[23:24:18] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.warp
+[23:24:18] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:18] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.warp true
+[23:24:30] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.invsee
+[23:24:30] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:30] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.invsee true
+[23:24:44] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.help
+[23:24:44] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[23:24:44] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.help true

@@ -12,7 +12,7 @@
 # Discord: https://discord.gg/papermc
 # Website: https://papermc.io/
 
-_version: 31
+_version: 30
 anticheat:
   anti-xray:
     enabled: false
@@ -20,12 +20,10 @@ anticheat:
     hidden-blocks:
     - copper_ore
     - deepslate_copper_ore
-    - raw_copper_block
     - gold_ore
     - deepslate_gold_ore
     - iron_ore
     - deepslate_iron_ore
-    - raw_iron_block
     - coal_ore
     - deepslate_coal_ore
     - lapis_ore
@@ -74,9 +72,6 @@ collisions:
   fix-climbing-bypassing-cramming-rule: false
   max-entity-collisions: 8
   only-players-collide: false
-command-blocks:
-  force-follow-perm-level: true
-  permissions-level: 2
 entities:
   armor-stands:
     do-collision-entity-lookups: true
@@ -105,7 +100,6 @@ entities:
       skeletons: false
       zombies: false
     nerf-pigmen-from-nether-portals: false
-    only-merge-items-horizontally: false
     parrots-are-unaffected-by-player-movement: false
     phantoms-do-not-spawn-on-creative-players: true
     phantoms-only-attack-insomniacs: true
@@ -124,7 +118,7 @@ entities:
     player-insomnia-start-ticks: 72000
     should-remove-dragon: false
     spawner-nerfed-mobs-should-jump: false
-    zombie-villager-infection-chance: default
+    zombie-villager-infection-chance: -1.0
     zombies-target-turtle-eggs: true
   entities-target-with-follow-range: false
   markers:
@@ -134,6 +128,7 @@ entities:
       wither: true
       wither-skeleton: true
     spiders-immune-to-poison-effect: true
+    undead-immune-to-certain-effects: true
   sniffer:
     boosted-hatch-time: default
     hatch-time: default
@@ -145,32 +140,31 @@ entities:
         cobblestone: 300
     count-all-mobs-for-spawning: false
     creative-arrow-despawn-rate: default
-    despawn-range-shape: ELLIPSOID
     despawn-ranges:
       ambient:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       axolotls:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       creature:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       misc:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       monster:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       underground_water_creature:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
       water_ambient:
-        hard: default
-        soft: default
+        hard: 64
+        soft: 32
       water_creature:
-        hard: default
-        soft: default
+        hard: 128
+        soft: 32
     disable-mob-spawner-spawn-egg-transformation: false
     duplicate-uuid:
       mode: SAFE_REGEN
@@ -183,7 +177,7 @@ entities:
     - SleepingY
     - SleepingZ
     iron-golems-can-spawn-in-air: false
-    monster-spawn-max-light-level: default
+    monster-spawn-max-light-level: -1
     non-player-arrow-despawn-rate: default
     per-player-mob-spawns: true
     scan-for-legacy-ender-dragon: true
@@ -195,14 +189,6 @@ entities:
         maximum: 70.0
         minimum: 50.0
     spawn-limits:
-      ambient: -1
-      axolotls: -1
-      creature: -1
-      monster: -1
-      underground_water_creature: -1
-      water_ambient: -1
-      water_creature: -1
-    ticks-per-spawn:
       ambient: -1
       axolotls: -1
       creature: -1
@@ -239,9 +225,6 @@ environment:
       min: 20
     enabled: true
   generate-flat-bedrock: false
-  locate-structures-outside-world-border: false
-  max-block-ticks: 65536
-  max-fluid-ticks: 65536
   nether-ceiling-void-damage-height: disabled
   optimize-explosions: false
   portal-create-radius: 16
@@ -261,6 +244,7 @@ fishing-time-range:
 fixes:
   disable-unloaded-chunk-enderpearl-exploit: true
   falling-block-height-nerf: disabled
+  fix-curing-zombie-villager-discount-exploit: true
   fix-items-merging-through-walls: false
   prevent-tnt-from-moving-in-water: false
   split-overstacked-loot: true
@@ -287,12 +271,11 @@ max-growth-height:
   cactus: 3
   reeds: 3
 misc:
-  alternate-current-update-order: HORIZONTAL_FIRST_OUTWARD
   disable-end-credits: false
   disable-relative-projectile-velocity: false
   disable-sprint-interruption-on-attack: false
   light-queue-size: 20
-  max-leash-distance: default
+  max-leash-distance: 10.0
   redstone-implementation: VANILLA
   shield-blocking-delay: 5
   show-sign-click-command-failure-msgs-to-player: false
@@ -302,18 +285,17 @@ scoreboards:
   use-vanilla-world-scoreboard-name-coloring: false
 spawn:
   allow-using-signs-inside-spawn-protection: false
+  keep-spawn-loaded: true
+  keep-spawn-loaded-range: 10
 tick-rates:
   behavior:
     villager:
       validatenearbypoi: -1
   container-update: 1
-  dry-farmland: 1
   grass-spread: 1
   mob-spawner: 1
   sensor:
     villager:
       secondarypoisensor: 40
-  wet-farmland: 1
 unsupported-settings:
-  disable-world-ticking-when-empty: false
   fix-invulnerable-end-crystal-exploit: true
