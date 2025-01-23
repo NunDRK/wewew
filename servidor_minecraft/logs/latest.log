@@ -248,3 +248,158 @@
 [01:34:09] [Async Chat Thread - #33/INFO]: [Not Secure] <liver_poor> cuenta te consigo
 [01:34:15] [Async Chat Thread - #33/INFO]: [Not Secure] <NunDRK> con 3 stacks esta bien
 [01:34:19] [Async Chat Thread - #33/INFO]: [Not Secure] <liver_poor> oks
+[01:35:39] [Server thread/INFO]: Made NunDRK a server operator
+[01:35:46] [Server thread/INFO]: NunDRK issued server command: /reload confirm
+[01:35:46] [Server thread/INFO]: NunDRK: Please note that this command is not supported and may cause issues when using some plugins.
+[01:35:46] [Server thread/INFO]: NunDRK: If you encounter any issues please use the /stop command to restart your server.
+[01:35:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:35:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:35:46] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.2
+[01:35:46] [Server thread/INFO]: [ChatColor2] Disabling ChatColor2 v1.15.1
+[01:35:46] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.15.1 has been disabled.
+[01:35:46] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[01:35:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+155-803771e
+[01:35:46] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[01:35:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[01:35:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:35:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:35:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:35:47] [Server thread/INFO]: Loaded 7 recipes
+[01:35:47] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[01:35:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+155-803771e
+[01:35:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[01:35:47] [Server thread/INFO]: [ChatColor2] Loading server plugin ChatColor2 v1.15.1
+[01:35:47] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.2
+[01:35:47] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
+[01:35:47] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[01:35:47] [Server thread/INFO]: [TreeAssist] Config created: CHERRY
+[01:35:47] [Server thread/WARN]: [TreeAssist] Could not save cherry.yml to plugins/TreeAssist/trees/overworld/cherry.yml because cherry.yml already exists.
+[01:35:47] [Server thread/WARN]: [TreeAssist] Invalid Material in TreeConfig default.yml - Node Natural Blocks entry invalid: minecraft:short_grass
+[01:35:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:35:48] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[01:35:48] [Server thread/INFO]:         __    
+[01:35:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[01:35:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:35:48] [Server thread/INFO]: 
+[01:35:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:35:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:35:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:35:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:35:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 740ms)
+[01:35:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[01:35:48] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:35:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:35:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[01:35:49] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:35:49] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[01:35:49] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[01:35:49] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+155-803771e
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:35:49] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:35:49] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[01:35:49] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:35:49] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[01:35:49] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[01:35:49] [Server thread/INFO]: [Essentials] Using locale en
+[01:35:49] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:35:50] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:35:50] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[01:35:50] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[01:35:50] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[01:35:50] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.15.1
+[01:35:50] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.15.1 has been enabled.
+[01:35:50] [Server thread/INFO]: [ChatColor] Current update: GUI rework & additional features! (+Bug fixes)
+[01:35:50] [Server thread/INFO]: [ChatColor] PlaceholderAPI not found, placeholders will not be available.
+[01:35:50] [Server thread/INFO]: [ChatColor] Metrics is enabled for this plugin. Stats sent to https://bstats.org/plugin/bukkit/ChatColor2
+[01:35:50] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.2
+[01:35:50] [Server thread/INFO]: [AngelChest] You are using an illegal copy of AngelChest :-(
+[01:35:50] [Server thread/INFO]: [AngelChest] Zbkew'bdhgzhere-ouying a legal version on SpigotMC instead:
+[01:35:50] [Server thread/INFO]: [AngelChest] iucg~7//www.spigotmc.org/members/mfnalex.175238/
+[01:35:50] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[01:35:50] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[01:35:50] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[01:35:50] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[01:35:50] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[01:35:50] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:35:50] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.2 (Premium: false)
+[01:35:50] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
+[01:35:50] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[01:35:50] [Server thread/INFO]: [TreeAssist] debugging: off
+[01:35:50] [Thread-23/INFO]: [TreeAssist] Checking for updates...
+[01:35:50] [Server thread/INFO]: NunDRK: Reload complete.
+[01:35:50] [Server thread/INFO]: Timings Reset
+[01:35:50] [Craft Scheduler Thread - 669 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:35:50] [Server thread/INFO]: [AngelChest] ========================================================
+[01:35:50] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[01:35:50] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[01:35:50] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[01:35:50] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[01:35:50] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[01:35:50] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[01:35:50] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[01:35:50] [Server thread/INFO]: [AngelChest] 
+[01:35:50] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[01:35:50] [Server thread/INFO]: [AngelChest] ========================================================
+[01:35:54] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[01:35:54] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[01:35:56] [Server thread/INFO]: NunDRK issued server command: /plugins
+[01:36:59] [Server thread/INFO]: liver_poor issued server command: /tpa NunDRK
+[01:37:06] [Server thread/INFO]: NunDRK issued server command: /home casa
+[01:37:08] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[01:37:17] [Server thread/INFO]: Made NunDRK a server operator
+[01:37:19] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[01:37:26] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[01:37:29] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[01:37:29] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[01:37:48] [Async Chat Thread - #36/INFO]: [Not Secure] <NunDRK> puse que cuando se rompa un arbol con un hacha se caiga entero
+[01:37:55] [Async Chat Thread - #36/INFO]: [Not Secure] <liver_poor> ;V aver
+[01:38:06] [Async Chat Thread - #36/INFO]: [Not Secure] <liver_poor> ala verg
+[01:39:24] [Async Chat Thread - #38/INFO]: [Not Secure] <NunDRK> podes conseguir arena?
+[01:39:28] [Async Chat Thread - #39/INFO]: [Not Secure] <liver_poor> cuanta
+[01:39:34] [Async Chat Thread - #38/INFO]: [Not Secure] <NunDRK> necesito hacer vidrio para la granja de hierro
+[01:39:44] [Async Chat Thread - #39/INFO]: [Not Secure] <liver_poor> te consigo 3 staks
+[01:39:46] [Async Chat Thread - #38/INFO]: [Not Secure] <NunDRK> creo que es un stack y medio
+[01:39:50] [Async Chat Thread - #39/INFO]: [Not Secure] <liver_poor> oka
+[01:40:00] [Async Chat Thread - #38/INFO]: [Not Secure] <NunDRK> pero consegui 3 para hacer 2 modulos y que genere el doble
+[01:40:09] [Async Chat Thread - #39/INFO]: [Not Secure] <liver_poor> a
+[01:40:53] [Server thread/INFO]: Made NunDRK a server operator
+[01:40:56] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[01:42:37] [Server thread/INFO]: liver_poor issued server command: /tpa nundrk
+[01:43:01] [Server thread/INFO]: liver_poor issued server command: /tpa nundrk
+[01:43:04] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[01:43:06] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[01:43:43] [Server thread/INFO]: NunDRK issued server command: /invsee liver_poor
+[01:43:50] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[01:45:11] [Server thread/INFO]: liver_poor has made the advancement [Sweet Dreams]
