@@ -434,3 +434,5 @@
 [02:29:07] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
 [02:29:07] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
 [02:35:14] [Server thread/INFO]: Made NunDRK a server operator
+[02:41:41] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:41:55] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
