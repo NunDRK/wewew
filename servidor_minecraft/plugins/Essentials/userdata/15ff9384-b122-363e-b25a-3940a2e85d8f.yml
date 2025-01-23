@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737588507765
+  logout: 1737604786145
   login: 1737589703815
 money: '0'
 last-account-name: NunDRK
 logoutlocation:
   world: cb7842a3-06ca-4d4e-9787-f0f93e532745
   world-name: world
-  x: 0.9907290557031905
-  y: 79.0
-  z: -7.749351800402446
-  yaw: -121.27377319335938
-  pitch: -33.2340087890625
+  x: -1772.300000011921
+  y: 69.65661021710861
+  z: -3636.809926935758
+  yaw: -133.30938720703125
+  pitch: 36.67405319213867
 lastlocation:
   world: cb7842a3-06ca-4d4e-9787-f0f93e532745
   world-name: world
