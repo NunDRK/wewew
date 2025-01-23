@@ -151,3 +151,10 @@
 [00:39:37] [Server thread/INFO]: liver_poor issued server command: /actp 1
 [00:39:37] [Server thread/INFO]: liver_poor issued server command: /actp 1
 [00:40:15] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[00:47:04] [Server thread/INFO]: Villager EntityVillager['Farmer'/23568, uuid='679a196e-97ad-4fc3-9bb0-c4bb269a5556', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3555.02, cpos=[-118, -223], tl=18562, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[00:47:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/23569, uuid='6a170c2a-08a7-488d-b7ea-78547728fa4f', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3557.70, cpos=[-118, -223], tl=18840, v=true] died, message: 'Farmer was slain by Zombie'
+[00:52:51] [Server thread/INFO]: liver_poor was slain by Zombie
+[00:52:54] [Server thread/INFO]: liver_poor issued server command: /actp 1
+[00:53:41] [Server thread/INFO]: liver_poor has made the advancement [Ice Bucket Challenge]
+[01:03:19] [Server thread/INFO]: liver_poor hit the ground too hard
+[01:03:22] [Server thread/INFO]: liver_poor issued server command: /actp 1
