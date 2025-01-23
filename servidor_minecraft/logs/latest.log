@@ -403,3 +403,8 @@
 [01:43:43] [Server thread/INFO]: NunDRK issued server command: /invsee liver_poor
 [01:43:50] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [01:45:11] [Server thread/INFO]: liver_poor has made the advancement [Sweet Dreams]
+[02:00:21] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:00:30] [Server thread/INFO]: NunDRK issued server command: /time set midnight
+[02:00:33] [Server thread/INFO]: NunDRK issued server command: /fly
+[02:01:09] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:03:19] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
