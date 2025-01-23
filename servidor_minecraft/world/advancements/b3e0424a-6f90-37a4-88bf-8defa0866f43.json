@@ -471,6 +471,7 @@
       "minecraft:pillager": "2025-01-23 01:56:28 +0000",
       "minecraft:skeleton": "2025-01-23 00:25:54 +0000",
       "minecraft:spider": "2025-01-23 00:22:38 +0000",
+      "minecraft:creeper": "2025-01-23 02:17:05 +0000",
       "minecraft:zombie": "2025-01-23 00:05:38 +0000"
     },
     "done": false
@@ -1483,9 +1484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-23 02:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-23 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-23 02:14:36 +0000"
     },
     "done": true
   },
@@ -1585,9 +1598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 02:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-23 01:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 02:19:50 +0000"
     },
     "done": true
   },

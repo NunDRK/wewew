@@ -410,3 +410,16 @@
 [02:03:19] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
 [02:14:43] [Server thread/INFO]: Villager EntityVillager['Farmer'/36242, uuid='f543fee6-f405-4e52-bfdf-9bd6c6e60a33', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3557.51, cpos=[-118, -223], tl=72483, v=true] died, message: 'Farmer was slain by Zombie'
 [02:14:52] [Server thread/INFO]: Villager EntityVillager['Farmer'/36241, uuid='0c3c9cc0-3e21-456d-ad83-fb3cacc9e1e1', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3557.51, cpos=[-118, -223], tl=72663, v=true] died, message: 'Farmer was slain by Zombie'
+[02:15:38] [Server thread/INFO]: NunDRK issued server command: /fly
+[02:17:04] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:17:09] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:17:21] [Server thread/WARN]: Player liver_poor just tried to change non-editable sign
+[02:17:26] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:17:32] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:17:57] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:19:26] [Server thread/INFO]: liver_poor issued server command: /lay
+[02:19:28] [Server thread/INFO]: liver_poor issued server command: /lay
+[02:23:50] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:24:23] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:24:34] [Server thread/INFO]: NunDRK issued server command: /gamemode adventure
+[02:24:35] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
