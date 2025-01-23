@@ -92,3 +92,29 @@
 [00:23:29] [Async Chat Thread - #13/INFO]: [Not Secure] <liver_poor> oks
 [00:23:38] [Server thread/INFO]: NunDRK issued server command: /sethome base
 [00:23:39] [Async Chat Thread - #12/INFO]: [Not Secure] <liver_poor> yo estoy buscando oro y diamante
+[00:24:37] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[00:24:42] [Server thread/INFO]: NunDRK has made the advancement [Hot Stuff]
+[00:25:14] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/20155, uuid='e8ef4b8a-4c65-406d-b1bc-45bb7f89e101', l='ServerLevel[world]', x=-1785.11, y=66.39, z=-3564.48, cpos=[-112, -223], tl=2801, v=true] died, message: 'Leatherworker tried to swim in lava'
+[00:25:40] [Server thread/INFO]: Villager EntityVillager['Farmer'/20157, uuid='3188b6d3-47af-4658-a56d-df42abf17e43', l='ServerLevel[world]', x=-1803.92, y=65.62, z=-3571.36, cpos=[-113, -224], tl=3312, v=true] died, message: 'Farmer tried to swim in lava'
+[00:25:44] [Server thread/INFO]: Villager EntityVillager['Nitwit'/20220, uuid='66cd63d4-a5e2-4190-8f65-7e02226779a3', l='ServerLevel[world]', x=-1802.30, y=65.77, z=-3581.65, cpos=[-113, -224], tl=3390, v=true] died, message: 'Nitwit burned to death'
+[00:25:50] [Server thread/INFO]: liver_poor has made the advancement [Not Today, Thank You]
+[00:26:03] [Server thread/INFO]: Villager EntityVillager['Villager'/20250, uuid='2349e2f7-a669-4b77-9578-44fd7a97d494', l='ServerLevel[world]', x=-1809.72, y=66.17, z=-3574.58, cpos=[-114, -224], tl=3776, v=true] died, message: 'Villager burned to death'
+[00:26:06] [Server thread/INFO]: Villager EntityVillager['Villager'/20217, uuid='e670bc63-4ced-4eea-8b57-d7a518698cd2', l='ServerLevel[world]', x=-1815.02, y=64.60, z=-3585.01, cpos=[-114, -225], tl=3835, v=true] died, message: 'Villager tried to swim in lava'
+[00:26:10] [Server thread/INFO]: Villager EntityVillager['Farmer'/20249, uuid='83d64c16-31c5-4521-9b22-77716f67063e', l='ServerLevel[world]', x=-1803.58, y=67.00, z=-3579.80, cpos=[-113, -224], tl=3915, v=true] died, message: 'Farmer tried to swim in lava'
+[00:26:29] [Server thread/INFO]: Villager EntityVillager['Farmer'/20230, uuid='709e947c-383d-477b-962f-6dc101886907', l='ServerLevel[world]', x=-1773.01, y=64.00, z=-3608.51, cpos=[-111, -226], tl=4303, v=true] died, message: 'Farmer tried to swim in lava'
+[00:26:38] [Server thread/INFO]: Villager EntityVillager['Farmer'/20147, uuid='46405055-9fb6-4494-b486-bfef85ef11b1', l='ServerLevel[world]', x=-1780.11, y=64.68, z=-3609.74, cpos=[-112, -226], tl=4528, v=true] died, message: 'Farmer tried to swim in lava'
+[00:26:43] [Server thread/INFO]: Villager EntityVillager['Nitwit'/20194, uuid='28a066f9-b12f-4f76-85d7-4db0e7ce6228', l='ServerLevel[world]', x=-1788.29, y=65.96, z=-3619.77, cpos=[-112, -227], tl=4581, v=true] died, message: 'Nitwit tried to swim in lava'
+[00:27:00] [Server thread/INFO]: Villager EntityVillager['Farmer'/20223, uuid='08f2c107-f529-43b4-9a46-96bc68559cf9', l='ServerLevel[world]', x=-1819.40, y=64.00, z=-3639.71, cpos=[-114, -228], tl=4921, v=true] died, message: 'Farmer tried to swim in lava'
+[00:27:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/20229, uuid='c0009b02-eac3-42d2-aff5-647c14f7f522', l='ServerLevel[world]', x=-1820.33, y=64.62, z=-3640.19, cpos=[-114, -228], tl=5037, v=true] died, message: 'Farmer tried to swim in lava'
+[00:27:14] [Server thread/INFO]: Villager EntityVillager['Nitwit'/20222, uuid='6e6b2ce6-65af-4205-842e-501fa71c5ddb', l='ServerLevel[world]', x=-1808.98, y=72.81, z=-3667.37, cpos=[-114, -230], tl=5197, v=true] died, message: 'Nitwit tried to swim in lava'
+[00:28:15] [Server thread/INFO]: liver_poor has made the advancement [Diamonds!]
+[00:29:11] [Async Chat Thread - #14/INFO]: [Not Secure] <liver_poor> alfin diamantes
+[00:30:14] [Server thread/INFO]: NunDRK issued server command: /flyspeed 1
+[00:33:03] [Async Chat Thread - #16/INFO]: [Not Secure] <liver_poor> 16 diamante
+[00:33:36] [Async Chat Thread - #17/INFO]: [Not Secure] <liver_poor> nuncio!!!!
+[00:33:39] [Server thread/INFO]: Villager EntityVillager['Villager'/24042, uuid='304c9e7c-781c-43a4-90bc-fd3a45d1494f', l='ServerLevel[world]', x=-1879.52, y=60.25, z=-3559.04, cpos=[-118, -223], tl=574, v=true] died, message: 'Villager was slain by NunDRK'
+[00:33:48] [Async Chat Thread - #16/INFO]: [Not Secure] <liver_poor> nuncio!!!!
+[00:33:49] [Async Chat Thread - #17/INFO]: [Not Secure] <liver_poor> nuncio!!!!
+[00:33:54] [Async Chat Thread - #16/INFO]: [Not Secure] <NunDRK> que?
+[00:33:57] [Async Chat Thread - #17/INFO]: [Not Secure] <liver_poor> spawer
+[00:34:17] [Async Chat Thread - #16/INFO]: [Not Secure] <NunDRK> rompelo si queres
