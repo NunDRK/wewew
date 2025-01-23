@@ -408,3 +408,5 @@
 [02:00:33] [Server thread/INFO]: NunDRK issued server command: /fly
 [02:01:09] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [02:03:19] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:14:43] [Server thread/INFO]: Villager EntityVillager['Farmer'/36242, uuid='f543fee6-f405-4e52-bfdf-9bd6c6e60a33', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3557.51, cpos=[-118, -223], tl=72483, v=true] died, message: 'Farmer was slain by Zombie'
+[02:14:52] [Server thread/INFO]: Villager EntityVillager['Farmer'/36241, uuid='0c3c9cc0-3e21-456d-ad83-fb3cacc9e1e1', l='ServerLevel[world]', x=-1880.30, y=64.19, z=-3557.51, cpos=[-118, -223], tl=72663, v=true] died, message: 'Farmer was slain by Zombie'
