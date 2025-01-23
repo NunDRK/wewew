@@ -192,3 +192,27 @@
 [01:14:42] [Async Chat Thread - #23/INFO]: [Not Secure] <liver_poor> dtf
 [01:14:44] [Async Chat Thread - #24/INFO]: [Not Secure] <liver_poor> wtf
 [01:14:52] [Async Chat Thread - #23/INFO]: [Not Secure] <liver_poor> ala verg
+[01:15:02] [Server thread/INFO]: NunDRK was shot by Skeleton
+[01:15:05] [Server thread/INFO]: NunDRK issued server command: /actp 1
+[01:16:50] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome.multiple
+[01:16:50] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[01:16:50] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome.multiple true
+[01:16:57] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome.multiple.unlimited
+[01:16:57] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[01:16:57] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome.multiple.unlimited true
+[01:17:20] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[01:17:20] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[01:17:24] [Server thread/INFO]: NunDRK issued server command: /anvil
+[01:19:52] [Async Chat Thread - #25/INFO]: [Not Secure] <liver_poor> mometo epic
+[01:19:57] [Server thread/INFO]: liver_poor has made the advancement [We Need to Go Deeper]
+[01:20:10] [Async Chat Thread - #26/INFO]: [Not Secure] <liver_poor> apareci en medio de la mr
+[01:20:26] [Async Chat Thread - #25/INFO]: [Not Secure] <liver_poor> te robo 4 de oro
+[01:21:41] [Async Chat Thread - #27/INFO]: [Not Secure] <liver_poor> ayudaaa
+[01:21:47] [Server thread/INFO]: liver_poor issued server command: /tpa NunDRK
+[01:21:50] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[01:21:58] [Async Chat Thread - #28/INFO]: [Not Secure] <liver_poor> casi muero como pendej
+[01:24:34] [Server thread/INFO]: NunDRK has made the advancement [Isn't It Iron Pick]
+[01:24:38] [Async Chat Thread - #29/INFO]: [Not Secure] <liver_poor> no
+[01:24:47] [Async Chat Thread - #30/INFO]: [Not Secure] <NunDRK> TENES REDSTONE?
+[01:24:51] [Async Chat Thread - #29/INFO]: [Not Secure] <liver_poor> seehh
+[01:25:01] [Server thread/INFO]: NunDRK issued server command: /invsee liver_poor
