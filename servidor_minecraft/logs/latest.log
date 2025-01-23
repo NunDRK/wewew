@@ -451,3 +451,23 @@
 [03:07:35] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [03:07:37] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
 [03:07:39] [Server thread/INFO]: NunDRK issued server command: /fly
+[03:27:18] [Server thread/WARN]: NunDRK moved wrongly!
+[03:28:43] [User Authenticator #2/INFO]: UUID of player gamer_top_10 is d61cab99-f5c3-3aa8-8515-36b5fdc0bdde
+[03:28:43] [Server thread/INFO]: gamer_top_10 joined the game
+[03:28:43] [Server thread/INFO]: gamer_top_10[/127.212.16.182:57323] logged in with entity id 60357 at ([world]-11.212237761721594, 79.0, -2.4177290823408737)
+[03:28:53] [Server thread/INFO]: gamer_top_10 lost connection: Disconnected
+[03:28:53] [Server thread/INFO]: gamer_top_10 left the game
+[03:29:10] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[03:29:37] [User Authenticator #2/INFO]: UUID of player liver_poor is b3e0424a-6f90-37a4-88bf-8defa0866f43
+[03:29:37] [Server thread/INFO]: liver_poor joined the game
+[03:29:37] [Server thread/INFO]: liver_poor[/127.212.16.182:38079] logged in with entity id 60665 at ([world]-1819.6679619808904, 70.0, -3541.367143810418)
+[03:29:38] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[03:31:22] [Async Chat Thread - #44/INFO]: [Not Secure] <NunDRK> me tenes los huevos al plato con ese disco
+[03:31:25] [Async Chat Thread - #44/INFO]: [Not Secure] <liver_poor> XD
+[03:31:45] [Async Chat Thread - #44/INFO]: [Not Secure] <liver_poor> eóc
+[03:31:47] [Async Chat Thread - #45/INFO]: [Not Secure] <liver_poor> epic
+[03:34:27] [Async Chat Thread - #46/INFO]: [Not Secure] <liver_poor> ;c
+[03:34:52] [Async Chat Thread - #47/INFO]: [Not Secure] <liver_poor> music epica
+[03:34:59] [Async Chat Thread - #46/INFO]: [Not Secure] <NunDRK> una garcha esa musica
+[03:35:06] [Async Chat Thread - #47/INFO]: [Not Secure] <liver_poor> mentira
+[03:35:46] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.2
