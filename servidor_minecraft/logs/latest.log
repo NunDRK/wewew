@@ -441,3 +441,9 @@
 [02:47:10] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [02:47:23] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
 [02:50:03] [Server thread/INFO]: liver_poor issued server command: /tpa NunDRK
+[02:58:07] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[02:58:10] [Async Chat Thread - #42/INFO]: [Not Secure] <liver_poor> me tengo que ir nuncio
+[02:58:50] [Server thread/INFO]: liver_poor lost connection: Disconnected
+[02:58:50] [Server thread/INFO]: liver_poor left the game
+[03:05:24] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[03:05:35] [Server thread/INFO]: NunDRK issued server command: /gamemode survival

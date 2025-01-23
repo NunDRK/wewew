@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1737601130596
   login: 1737589940042
 money: '0'
 last-account-name: liver_poor
@@ -28,3 +28,11 @@ lastlocation:
   z: -3674.19107281
   yaw: -41.88248062133789
   pitch: 1.9500179290771484
+logoutlocation:
+  world: cb7842a3-06ca-4d4e-9787-f0f93e532745
+  world-name: world
+  x: -1819.6679619808904
+  y: 70.0
+  z: -3541.367143810418
+  yaw: -176.89923095703125
+  pitch: 26.24997329711914
