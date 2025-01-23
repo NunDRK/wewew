@@ -19,3 +19,53 @@
 [00:03:37] [Server thread/INFO]: NunDRK issued server command: /tpaccept
 [00:03:45] [Async Chat Thread - #5/INFO]: [Not Secure] <liver_poor> que verg
 [00:03:51] [Async Chat Thread - #4/INFO]: [Not Secure] <NunDRK> jajaja
+[00:03:54] [Async Chat Thread - #5/INFO]: [Not Secure] <liver_poor> que ojet que tenes
+[00:03:54] [Async Chat Thread - #4/INFO]: [Not Secure] <NunDRK> un cofre del tesoro
+[00:04:17] [Async Chat Thread - #5/INFO]: [Not Secure] <liver_poor> toy buscando una mina
+[00:04:28] [Async Chat Thread - #4/INFO]: [Not Secure] <NunDRK> saque el mapa de un barco y lo busque como que ojet
+[00:04:39] [Async Chat Thread - #5/INFO]: [Not Secure] <liver_poor> alta trampa
+[00:04:58] [Async Chat Thread - #4/INFO]: [Not Secure] <NunDRK> porque?
+[00:05:03] [Async Chat Thread - #5/INFO]: [Not Secure] <liver_poor> el ojet para encontra el barci
+[00:05:38] [Server thread/INFO]: liver_poor has made the advancement [Monster Hunter]
+[00:06:03] [Async Chat Thread - #6/INFO]: [Not Secure] <liver_poor> se pieder el inventario cuando moris?
+[00:06:12] [Async Chat Thread - #7/INFO]: [Not Secure] <NunDRK> se queda en una tumba
+[00:06:15] [Async Chat Thread - #6/INFO]: [Not Secure] <liver_poor> a
+[00:06:17] [Async Chat Thread - #7/INFO]: [Not Secure] <liver_poor> oka
+[00:06:19] [Async Chat Thread - #7/INFO]: [Not Secure] <NunDRK> pero te podes hacer tp a la tumba
+[00:06:28] [Async Chat Thread - #7/INFO]: [Not Secure] <liver_poor> genial
+[00:06:30] [Server thread/INFO]: Made NunDRK a server operator
+[00:06:49] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.back
+[00:06:49] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[00:06:49] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.back true
+[00:06:52] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[00:06:52] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[00:08:39] [Async Chat Thread - #8/INFO]: [Not Secure] <liver_poor> aceptame tpa que me atore en una mina
+[00:08:43] [Server thread/INFO]: liver_poor issued server command: /tpa NunDRK
+[00:08:45] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[00:09:31] [Async Chat Thread - #9/INFO]: [Not Secure] <liver_poor> full iron
+[00:10:21] [Async Chat Thread - #8/INFO]: [Not Secure] <liver_poor> nun agarremo 3 aldeanos y agamos la granja de hierro la mas facil de hacer
+[00:10:38] [Async Chat Thread - #9/INFO]: [Not Secure] <NunDRK> al toque
+[00:10:45] [Async Chat Thread - #8/INFO]: [Not Secure] <liver_poor> sabes cual es?
+[00:10:49] [Async Chat Thread - #9/INFO]: [Not Secure] <NunDRK> sip
+[00:10:59] [Async Chat Thread - #8/INFO]: [Not Secure] <liver_poor> tonces agala es re facil de hacer
+[00:11:27] [Server thread/INFO]: liver_poor has made the advancement [Acquire Hardware]
+[00:11:33] [Server thread/INFO]: liver_poor has made the advancement [Suit Up]
+[00:11:33] [Server thread/INFO]: Made NunDRK a server operator
+[00:11:40] [Server thread/INFO]: NunDRK issued server command: /gamerule doDaylightCycle true
+[00:11:40] [Server thread/INFO]: [NunDRK: Gamerule doDaylightCycle is now set to: true]
+[00:11:57] [Server thread/INFO]: NunDRK issued server command: /difficulty hard
+[00:11:57] [Server thread/INFO]: [NunDRK: The difficulty has been set to Hard]
+[00:12:05] [Server thread/INFO]: NunDRK issued server command: /fly
+[00:12:19] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.fly
+[00:12:19] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[00:12:19] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.fly true
+[00:12:24] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[00:12:24] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[00:12:36] [Server thread/INFO]: liver_poor issued server command: /tpa NunDRK
+[00:12:45] [Server thread/INFO]: NunDRK issued server command: /tpaccept
+[00:13:03] [Server thread/INFO]: NunDRK issued server command: /sethome monumento
+[00:13:05] [Server thread/INFO]: NunDRK issued server command: /sethome casa
+[00:13:22] [Server thread/INFO]: Made NunDRK a server operator
+[00:13:53] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.sethome-multiple
+[00:13:53] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[00:13:53] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome-multiple true

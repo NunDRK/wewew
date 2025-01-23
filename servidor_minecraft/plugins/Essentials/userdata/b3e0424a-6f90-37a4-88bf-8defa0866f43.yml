@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1737590617852
+  lastteleport: 1737591165325
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,8 +23,8 @@ last-account-name: liver_poor
 lastlocation:
   world: cb7842a3-06ca-4d4e-9787-f0f93e532745
   world-name: world
-  x: -553.7746355553973
-  y: 63.0
-  z: 42.69999998807907
-  yaw: -33.9825439453125
-  pitch: 32.64048385620117
+  x: -764.3000000119209
+  y: 71.0
+  z: -612.7688244605152
+  yaw: -4.24755859375
+  pitch: -4.05004358291626
