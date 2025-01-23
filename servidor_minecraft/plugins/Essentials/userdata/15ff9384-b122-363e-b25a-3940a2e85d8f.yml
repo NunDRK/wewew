@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1737590270391
   lastheal: 0
   mute: 0
   jail: 0
@@ -28,3 +28,11 @@ logoutlocation:
   z: -7.749351800402446
   yaw: -121.27377319335938
   pitch: -33.2340087890625
+lastlocation:
+  world: cb7842a3-06ca-4d4e-9787-f0f93e532745
+  world-name: world
+  x: -99.30946413123874
+  y: 68.0
+  z: -62.648054881523755
+  yaw: 110.38558959960938
+  pitch: 86.03607940673828
