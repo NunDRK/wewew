@@ -423,3 +423,14 @@
 [02:24:23] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [02:24:34] [Server thread/INFO]: NunDRK issued server command: /gamemode adventure
 [02:24:35] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:27:12] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:27:30] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:27:50] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:28:21] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:28:40] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:28:47] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:29:04] [Async Chat Thread - #40/INFO]: [Not Secure] <NunDRK> me quedo afk
+[02:29:06] [Async Chat Thread - #41/INFO]: [Not Secure] <liver_poor> oks
+[02:29:07] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[02:29:07] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[02:35:14] [Server thread/INFO]: Made NunDRK a server operator
