@@ -584,3 +584,4 @@ Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to r
 [02:03:19] [Server thread/INFO]: liver_poor issued server command: /home casa
 [02:03:26] [Server thread/INFO]: liver_poor issued server command: /back
 [02:03:29] [Server thread/INFO]: liver_poor issued server command: /back
+[02:08:14] [Server thread/INFO]: liver_poor was slain by Zombie
