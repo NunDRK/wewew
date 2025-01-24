@@ -14,6 +14,7 @@
       "minecraft:lukewarm_ocean": "2025-01-22 23:57:21 +0000",
       "minecraft:river": "2025-01-23 00:12:27 +0000",
       "minecraft:stony_shore": "2025-01-22 23:55:29 +0000",
+      "minecraft:dripstone_caves": "2025-01-24 00:24:07 +0000",
       "minecraft:forest": "2025-01-22 23:18:06 +0000",
       "minecraft:jungle": "2025-01-23 00:19:00 +0000",
       "minecraft:ocean": "2025-01-23 00:12:37 +0000",
@@ -1972,7 +1973,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2025-01-24 00:05:15 +0000"
+      "minecraft:cat": "2025-01-24 00:05:15 +0000",
+      "minecraft:cow": "2025-01-24 00:19:25 +0000"
     },
     "done": false
   },
