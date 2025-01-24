@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1737679763109
+  lastteleport: 1737680471874
   lastheal: 0
   mute: 0
   jail: 0
@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: liver_poor
 lastlocation:
-  world: cb7842a3-06ca-4d4e-9787-f0f93e532745
-  world-name: world
-  x: -3.5
-  y: 84.0
-  z: -9.5
-  yaw: 0.0
-  pitch: 0.0
+  world: 1e6f8293-a1e7-4b3b-ae48-08980a2d9a6a
+  world-name: world_nether
+  x: -186.52554250818136
+  y: 33.0
+  z: -840.653192642836
+  yaw: 0.9002541899681091
+  pitch: 82.04996490478516
 logoutlocation:
   world: cb7842a3-06ca-4d4e-9787-f0f93e532745
   world-name: world
@@ -45,3 +45,11 @@ homes:
     z: -3542.7059086893005
     yaw: 91.4496078491211
     pitch: 11.099966049194336
+  yavengo:
+    world: 1e6f8293-a1e7-4b3b-ae48-08980a2d9a6a
+    world-name: world_nether
+    x: -145.69999998807907
+    y: 48.0
+    z: -710.6999999880791
+    yaw: -20.600032806396484
+    pitch: 25.950050354003906
