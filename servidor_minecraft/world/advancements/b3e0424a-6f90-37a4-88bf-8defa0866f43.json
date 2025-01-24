@@ -398,7 +398,8 @@
       "apple": "2025-01-23 02:53:20 +0000",
       "bread": "2025-01-23 01:13:10 +0000",
       "rotten_flesh": "2025-01-23 00:29:57 +0000",
-      "glow_berries": "2025-01-23 00:21:46 +0000"
+      "glow_berries": "2025-01-23 00:21:46 +0000",
+      "golden_carrot": "2025-01-24 01:39:51 +0000"
     },
     "done": false
   },
@@ -481,6 +482,7 @@
       "minecraft:witch": "2025-01-23 02:49:09 +0000",
       "minecraft:wither_skeleton": "2025-01-24 00:21:50 +0000",
       "minecraft:piglin": "2025-01-24 01:03:13 +0000",
+      "minecraft:enderman": "2025-01-24 01:38:09 +0000",
       "minecraft:zombie": "2025-01-23 00:05:38 +0000",
       "minecraft:zombie_villager": "2025-01-23 02:49:56 +0000"
     },
@@ -1790,6 +1792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-24 01:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-24 01:18:57 +0000"
@@ -1805,6 +1813,24 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-01-24 01:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 01:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-24 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-24 01:35:22 +0000"
     },
     "done": true
   },
@@ -1832,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-24 01:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-24 00:25:33 +0000"
@@ -1856,9 +1888,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-24 01:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-24 00:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-24 01:35:22 +0000"
     },
     "done": true
   },
@@ -1934,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 01:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-01-24 01:25:02 +0000"
@@ -1961,6 +2011,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-24 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-24 01:35:19 +0000"
     },
     "done": true
   },
@@ -1997,6 +2053,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-01-24 00:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 01:32:01 +0000"
     },
     "done": true
   },
@@ -2066,6 +2128,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-24 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-24 01:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-24 01:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-24 00:20:58 +0000"
@@ -2117,6 +2197,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-24 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-24 01:35:19 +0000"
     },
     "done": true
   },
