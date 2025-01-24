@@ -585,3 +585,5 @@ Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to r
 [02:03:26] [Server thread/INFO]: liver_poor issued server command: /back
 [02:03:29] [Server thread/INFO]: liver_poor issued server command: /back
 [02:08:14] [Server thread/INFO]: liver_poor was slain by Zombie
+[02:16:27] [Server thread/INFO]: liver_poor lost connection: Disconnected
+[02:16:27] [Server thread/INFO]: liver_poor left the game

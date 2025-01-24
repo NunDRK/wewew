@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737603830445
+  logout: 1737684987674
   login: 1737676817935
 money: '0'
 last-account-name: liver_poor
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: cb7842a3-06ca-4d4e-9787-f0f93e532745
   world-name: world
-  x: -1768.7529649433598
-  y: 63.0
-  z: -3619.2604742669023
-  yaw: 42.99969482421875
-  pitch: -18.75003433227539
+  x: -6.5
+  y: 79.0
+  z: -3.5
+  yaw: 0.0
+  pitch: 0.0
 homes:
   casa:
     world: cb7842a3-06ca-4d4e-9787-f0f93e532745
