@@ -138,3 +138,10 @@
 [02:52:48] [Server thread/INFO]: NunDRK[/127.62.84.228:35865] logged in with entity id 68 at ([world]-1772.7161457754787, 63.0, -3630.2274186028585)
 [02:53:14] [Server thread/INFO]: NunDRK lost connection: Disconnected
 [02:53:14] [Server thread/INFO]: NunDRK left the game
+[03:04:38] [User Authenticator #1/INFO]: UUID of player NunDRK is 15ff9384-b122-363e-b25a-3940a2e85d8f
+[03:04:38] [Server thread/INFO]: NunDRK joined the game
+[03:04:38] [Server thread/INFO]: NunDRK[/127.62.84.228:42553] logged in with entity id 424 at ([world]-1771.594814918221, 63.0, -3625.881293116601)
+[03:04:41] [Server thread/INFO]: NunDRK lost connection: Disconnected
+[03:04:41] [Server thread/INFO]: NunDRK left the game
+[03:05:28] [User Authenticator #1/INFO]: UUID of player NunDRK is 15ff9384-b122-363e-b25a-3940a2e85d8f
+[03:05:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@745bbb4e[id=15ff9384-b122-363e-b25a-3940a2e85d8f,name=NunDRK,properties={textures=[com.mojang.authlib.properties.Property@170a459c]},legacy=false] (/127.62.84.228:51683) lost connection: Disconnected
